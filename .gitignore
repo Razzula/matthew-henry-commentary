@@ -1,0 +1,4 @@
+/dist/bin/*
+/.pytest_cache/*
+/.mypyc_cache/*
+/.vscode/*
