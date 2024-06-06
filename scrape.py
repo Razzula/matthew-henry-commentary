@@ -173,7 +173,7 @@ def main():
             chapter_intro = chapter_soup.find("div", {"class": "article"})
             fancy_book_name = ''
             for char in book_name:
-                fancy_book_name += f'{char.upper()}'
+                fancy_book_name += f'{char.upper()} '
             sections_content.append(
                 f'<center><br><font size="+3"><b>{fancy_book_name}</b></font><br><br><font size="+2">{chapter_title}.</font><hr size="1" width="50"></center>'
                 + extract_content(chapter_intro)
