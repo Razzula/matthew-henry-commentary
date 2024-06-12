@@ -1,0 +1,3627 @@
+{
+    "1": {
+        "1": {
+            "strongs": {
+                "data": "G3972",
+                "metadata": "Strong's Greek 3972: Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+            },
+            "transliteration": "Paulos",
+            "native": "I\u0302 I\u0302\u00b1a\u0301\u00bf\u00a6I\u0302\u00bbI\u0302\u00bfI\u0308\u0082",
+            "eng": "Paul",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G4610",
+                "metadata": "Strong's Greek 4610: Silvanus, a Roman citizen and a helper of Paul. Of Latin origin; "
+            },
+            "transliteration": "Silouanos",
+            "native": "I\u0302\u00a3I\u03021I\u0302\u00bbI\u0302\u00bfI\u0308\u0085I\u0302\u00b1I\u03021\u20442a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "Silvanus",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G5095",
+                "metadata": "Strong's Greek 5095: Timothy, a Christian of Lystra, helper of Paul. From time and theos; dear to God; Timotheus, a Christian."
+            },
+            "transliteration": "Timotheos",
+            "native": "I\u0302\u00a4I\u03021I\u03021\u20444I\u0308\u008cI\u0302 \u0327I\u0302\u03bcI\u0302\u00bfI\u0308\u0082",
+            "eng": "Timothy",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "TA\u0308\u0093",
+            "native": "I\u0302\u00a4a\u0301\u00bf\u0087",
+            "eng": "To the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G1577",
+                "metadata": "Strong's Greek 1577: From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+            },
+            "transliteration": "ekklA\u0308\u0093sia",
+            "native": "a\u03011\u20444\u0090I\u0302oI\u0302oI\u0302\u00bbI\u0302\u00b7I\u0308\u0083I\u0302 \u0304a\u03013\u204443",
+            "eng": "church",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G2331",
+                "metadata": "Strong's Greek 2331: A Thessalonian. From Thessalonike; a Thessalonican, i.e. Inhabitant of Thessalonice."
+            },
+            "transliteration": "ThessalonikeA\u030a\u008dn",
+            "native": "I\u0302\u0098I\u0302\u03bcI\u0308\u0083I\u0308\u0083I\u0302\u00b1I\u0302\u00bbI\u0302\u00bfI\u03021\u20442I\u03021I\u0302oI\u0302\u00adI\u0308\u0089I\u03021\u20442",
+            "eng": "of the Thessalonians",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "TheA\u030a\u008d",
+            "native": "I\u0302\u0098I\u0302\u03bca\u0301\u00bf\u00b7",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G3962",
+                "metadata": "Strong's Greek 3962: Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a "
+            },
+            "transliteration": "Patri",
+            "native": "I\u0302 I\u0302\u00b1I\u0308\u0084I\u0308\u0081a\u03011\u20442\u00b6",
+            "eng": "[the] Father",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G2962",
+                "metadata": "Strong's Greek 2962: Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+            },
+            "transliteration": "KyriA\u030a\u008d",
+            "native": "I\u0302\u009aI\u0308\u0085I\u0308\u0081I\u0302 \u0304a\u0301\u00bf3",
+            "eng": "[the] Lord",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G2424",
+                "metadata": "Strong's Greek 2424: Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+            },
+            "transliteration": "IA\u0308\u0093sou",
+            "native": "a\u03011\u20444 \u0327I\u0302\u00b7I\u0308\u0083I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "Jesus",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G5547",
+                "metadata": "Strong's Greek 5547: Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+            },
+            "transliteration": "ChristA\u030a\u008d",
+            "native": "I\u0302\u00a7I\u0308\u0081I\u03021I\u0308\u0083I\u0308\u0084a\u0301\u00bf\u00b7",
+            "eng": "Christ",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G5485",
+                "metadata": "Strong's Greek 5485: From chairo; graciousness, of manner or act."
+            },
+            "transliteration": "Charis",
+            "native": "I\u0302\u00a7I\u0302\u00acI\u0308\u0081I\u03021I\u0308\u0082",
+            "eng": "Grace",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymin",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u0096I\u03021\u20442",
+            "eng": "to you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Dative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G1515",
+                "metadata": "Strong's Greek 1515: Probably from a primary verb eiro; peace; by implication, prosperity."
+            },
+            "transliteration": "eirA\u0308\u0093nA\u0308\u0093",
+            "native": "I\u0302\u03bca\u03011\u20444\u00b0I\u0308\u0081I\u0302\u00aeI\u03021\u20442I\u0302\u00b7",
+            "eng": "peace",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G575",
+                "metadata": "Strong's Greek 575: From, away from."
+            },
+            "transliteration": "apo",
+            "native": "a\u0302\u00a71\u20444a\u03011\u20444\u0080I\u0308\u0080a\u03011\u20442 \u0327",
+            "eng": "from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: (a) God, (b) a god, generally."
+            },
+            "transliteration": "theou",
+            "native": "I\u0302 \u0327I\u0302\u03bcI\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G3962",
+                "metadata": "Strong's Greek 3962: Father, (Heavenly) Father, ancestor, elder, senior."
+            },
+            "transliteration": "patros",
+            "native": "I\u0308\u0080I\u0302\u00b1I\u0308\u0084I\u0308\u0081a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "Father",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "our",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "24": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely."
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "25": {
+            "strongs": {
+                "data": "G2962",
+                "metadata": "Strong's Greek 2962: Lord, master, sir; the Lord."
+            },
+            "transliteration": "kyriou",
+            "native": "I\u0302oI\u0308\u0085I\u0308\u0081I\u0302 \u0304I\u0302\u00bfI\u0308",
+            "eng": "[the] Lord",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "strongs": {
+                "data": "G2424",
+                "metadata": "Strong's Greek 2424: Jesus; the Greek form of Joshua; Jesus, son of Eliezer; Jesus, surnamed Justus."
+            },
+            "transliteration": "IA\u0308\u0093sou",
+            "native": "a\u03011\u20444 \u0327I\u0302\u00b7I\u0308\u0083I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "Jesus",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "27": {
+            "strongs": {
+                "data": "G5547",
+                "metadata": "Strong's Greek 5547: Anointed One; the Messiah, the Christ."
+            },
+            "transliteration": "christou",
+            "native": "I\u0308\u0087I\u0308\u0081I\u03021I\u0308\u0083I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6a\u0302\u00a71\u20442",
+            "eng": "Christ",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "strongs": {
+                "data": "G2168",
+                "metadata": "Strong's Greek 2168: From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal."
+            },
+            "transliteration": "Eucharistoumen",
+            "native": "I\u0302\u0095a\u03011\u20442\u0090I\u0308\u0087I\u0302\u00b1I\u0308\u0081I\u03021I\u0308\u0083I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6I\u03021\u20444I\u0302\u03bcI\u03021\u20442",
+            "eng": "We give thanks",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Indicative Active",
+                        "1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u030a\u008d",
+            "native": "I\u0308\u0084a\u0301\u00bf\u00b7",
+            "eng": "to",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "TheA\u030a\u008d",
+            "native": "I\u0302\u0098I\u0302\u03bca\u0301\u00bf\u00b7",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G3842",
+                "metadata": "Strong's Greek 3842: Always, at all times, ever. From pas and hote; every when, i.e. At all times."
+            },
+            "transliteration": "pantote",
+            "native": "I\u0308\u0080I\u0302\u00acI\u03021\u20442I\u0308\u0084I\u0302\u00bfI\u0308\u0084I\u0302\u03bc",
+            "eng": "always",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G4012",
+                "metadata": "Strong's Greek 4012: From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+            },
+            "transliteration": "peri",
+            "native": "I\u0308\u0080I\u0302\u03bcI\u0308\u0081a\u03011\u20442\u00b6",
+            "eng": "concerning",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3956",
+                "metadata": "Strong's Greek 3956: All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+            },
+            "transliteration": "pantA\u030a\u008dn",
+            "native": "I\u0308\u0080I\u0302\u00acI\u03021\u20442I\u0308\u0084I\u0308\u0089I\u03021\u20442",
+            "eng": "all",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymA\u030a\u008dn",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G3417",
+                "metadata": "Strong's Greek 3417: Remembrance, recollection, mention; commemoration. From mnaomai or mimnesko; recollection; by implication, recital."
+            },
+            "transliteration": "mneian",
+            "native": "I\u03021\u20444I\u03021\u20442I\u0302\u03bcI\u0302 \u0304I\u0302\u00b1I\u03021\u20442",
+            "eng": "mention",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G4160",
+                "metadata": "Strong's Greek 4160: (a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+            },
+            "transliteration": "poioumenoi",
+            "native": "I\u0308\u0080I\u0302\u00bfI\u03021I\u0302\u00bfI\u0308\u008dI\u03021\u20444I\u0302\u03bcI\u03021\u20442I\u0302\u00bfI\u03021",
+            "eng": "making",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Middle",
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G1909",
+                "metadata": "Strong's Greek 1909: On, to, against, on the basis of, at. "
+            },
+            "transliteration": "epi",
+            "native": "a\u03011\u20444\u0090I\u0308\u0080a\u03011\u20442\u00b6",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u030a\u008dn",
+            "native": "I\u0308\u0084a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Plural"
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G4335",
+                "metadata": "Strong's Greek 4335: From proseuchomai; prayer; by implication, an oratory."
+            },
+            "transliteration": "proseuchA\u030a\u008dn",
+            "native": "I\u0308\u0080I\u0308\u0081I\u0302\u00bfI\u0308\u0083I\u0302\u03bcI\u0308\u0085I\u0308\u0087a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "prayers",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Plural"
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "strongs": {
+                "data": "G89",
+                "metadata": "Strong's Greek 89: Unceasingly, without remission. Adverb from adialeiptos; uninterruptedly, i.e. Without omission."
+            },
+            "transliteration": "adialeiptA\u030a\u008ds",
+            "native": "a\u03011\u20444\u0080I\u0302 \u0301I\u03021I\u0302\u00b1I\u0302\u00bbI\u0302\u03bcI\u0302 \u0304I\u0308\u0080I\u0308\u0084I\u0308\u0089I\u0308\u0082",
+            "eng": "unceasingly",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G3421",
+                "metadata": "Strong's Greek 3421: From a derivative of mneme; to exercise memory, i.e. Recollect; by implication, to punish; also to rehearse."
+            },
+            "transliteration": "mnA\u0308\u0093moneuontes",
+            "native": "I\u03021\u20444I\u03021\u20442I\u0302\u00b7I\u03021\u20444I\u0302\u00bfI\u03021\u20442I\u0302\u03bcI\u0308\u008dI\u0302\u00bfI\u03021\u20442I\u0308\u0084I\u0302\u03bcI\u0308\u0082",
+            "eng": "remembering",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Active",
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymA\u030a\u008dn",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "your",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G2041",
+                "metadata": "Strong's Greek 2041: From a primary ergo; toil; by implication, an act."
+            },
+            "transliteration": "ergou",
+            "native": "a\u03011\u20444\u0094I\u0308\u0081I\u03023I\u0302\u00bfI\u0308",
+            "eng": "work",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G4102",
+                "metadata": "Strong's Greek 4102: Faith, belief, trust, confidence; fidelity, faithfulness. "
+            },
+            "transliteration": "pisteA\u030a\u008ds",
+            "native": "I\u0308\u0080I\u0302 \u0304I\u0308\u0083I\u0308\u0084I\u0302\u03bcI\u0308\u0089I\u0308\u0082",
+            "eng": "of faith",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G2873",
+                "metadata": "Strong's Greek 2873: From kopto; a cut, i.e. toil, literally or figuratively; by implication, pains."
+            },
+            "transliteration": "kopou",
+            "native": "I\u0302oI\u0308\u008cI\u0308\u0080I\u0302\u00bfI\u0308",
+            "eng": "labor",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G26",
+                "metadata": "Strong's Greek 26: From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+            },
+            "transliteration": "agapA\u0308\u0093s",
+            "native": "a\u03011\u20444\u0080I\u03023I\u0302\u00acI\u0308\u0080I\u0302\u00b7I\u0308\u0082",
+            "eng": "of love",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G5281",
+                "metadata": "Strong's Greek 5281: Endurance, steadfastness, patient waiting for. From hupomeno; cheerful endurance, constancy."
+            },
+            "transliteration": "hypomonA\u0308\u0093s",
+            "native": "a\u03011\u20442\u0091I\u0308\u0080I\u0302\u00bfI\u03021\u20444I\u0302\u00bfI\u03021\u20442a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "endurance",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "of the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G1680",
+                "metadata": "Strong's Greek 1680: Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence."
+            },
+            "transliteration": "elpidos",
+            "native": "a\u03011\u20444\u0090I\u0302\u00bbI\u0308\u0080I\u0302 \u0304I\u0302 \u0301I\u0302\u00bfI\u0308\u0082",
+            "eng": "hope",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "of the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G2962",
+                "metadata": "Strong's Greek 2962: Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+            },
+            "transliteration": "Kyriou",
+            "native": "I\u0302\u009aI\u0308\u0085I\u0308\u0081I\u0302 \u0304I\u0302\u00bfI\u0308",
+            "eng": "Lord",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G2424",
+                "metadata": "Strong's Greek 2424: Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+            },
+            "transliteration": "IA\u0308\u0093sou",
+            "native": "a\u03011\u20444 \u0327I\u0302\u00b7I\u0308\u0083I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "Jesus",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G5547",
+                "metadata": "Strong's Greek 5547: Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+            },
+            "transliteration": "Christou",
+            "native": "I\u0302\u00a7I\u0308\u0081I\u03021I\u0308\u0083I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "Christ",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "strongs": {
+                "data": "G1715",
+                "metadata": "Strong's Greek 1715: From en and pros; in front of (literally or figuratively) or time)."
+            },
+            "transliteration": "emprosthen",
+            "native": "a\u03011\u20444\u0094I\u03021\u20444I\u0308\u0080I\u0308\u0081I\u0302\u00bfI\u0308\u0083I\u0302 \u0327I\u0302\u03bcI\u03021\u20442",
+            "eng": "before",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "24": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "25": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "Theou",
+            "native": "I\u0302\u0098I\u0302\u03bcI\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "27": {
+            "strongs": {
+                "data": "G3962",
+                "metadata": "Strong's Greek 3962: Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a "
+            },
+            "transliteration": "Patros",
+            "native": "I\u0302 I\u0302\u00b1I\u0308\u0084I\u0308\u0081a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "Father",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "28": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "strongs": {
+                "data": "G1492",
+                "metadata": "Strong's Greek 1492: To know, remember, appreciate. "
+            },
+            "transliteration": "eidotes",
+            "native": "I\u0302\u03bca\u03011\u20444\u00b0I\u0302 \u0301I\u0308\u008cI\u0308\u0084I\u0302\u03bcI\u0308\u0082",
+            "eng": "knowing",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Perfect Participle Active",
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G80",
+                "metadata": "Strong's Greek 80: A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+            },
+            "transliteration": "adelphoi",
+            "native": "a\u03011\u20444\u0080I\u0302 \u0301I\u0302\u03bcI\u0302\u00bbI\u0308\u0086I\u0302\u00bfa\u03011\u20442\u00b6",
+            "eng": "brothers",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Vocative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G25",
+                "metadata": "Strong's Greek 25: To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+            },
+            "transliteration": "A\u0308\u0093gapA\u0308\u0093menoi",
+            "native": "a\u03011\u20444 I\u03023I\u0302\u00b1I\u0308\u0080I\u0302\u00b7I\u03021\u20444I\u0302\u00adI\u03021\u20442I\u0302\u00bfI\u03021",
+            "eng": "beloved",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Perfect Participle Middle or Passive",
+                        "Vocative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G5259",
+                "metadata": "Strong's Greek 5259: A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+            },
+            "transliteration": "hypo",
+            "native": "a\u03011\u20442\u0091I\u0308\u0080a\u03011\u20442 \u0327",
+            "eng": "by",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "Theou",
+            "native": "I\u0302\u0098I\u0302\u03bcI\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093n",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0301I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G1589",
+                "metadata": "Strong's Greek 1589: A choosing out, selecting, choice (by God). From eklegomai; selection."
+            },
+            "transliteration": "eklogA\u0308\u0093n",
+            "native": "a\u03011\u20444\u0090I\u0302oI\u0302\u00bbI\u0302\u00bfI\u03023a\u03011\u20442 \u0301I\u03021\u20442",
+            "eng": "election",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymA\u030a\u008dn",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 2nd Person Plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "strongs": {
+                "data": "G3754",
+                "metadata": "Strong's Greek 3754: Neuter of hostis as conjunction; demonstrative, that; causative, because."
+            },
+            "transliteration": "hoti",
+            "native": "a\u03011\u20442\u0085I\u0308\u0084I\u03021",
+            "eng": "because",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "to",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Nominative Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G2098",
+                "metadata": "Strong's Greek 2098: From the same as euaggelizo; a good message, i.e. The gospel."
+            },
+            "transliteration": "euangelion",
+            "native": "I\u0302\u03bca\u03011\u20442\u0090I\u0302\u00b1I\u03023I\u03023I\u0302\u00adI\u0302\u00bbI\u03021I\u0302\u00bfI\u03021\u20442",
+            "eng": "gospel",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G3756",
+                "metadata": "Strong's Greek 3756: No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+            },
+            "transliteration": "ouk",
+            "native": "I\u0302\u00bfa\u03011\u20442\u0090I\u0302o",
+            "eng": "not",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G1096",
+                "metadata": "Strong's Greek 1096: A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+            },
+            "transliteration": "egenA\u0308\u0093thA\u0308\u0093",
+            "native": "a\u03011\u20444\u0090I\u03023I\u0302\u03bcI\u03021\u20442I\u0302\u00aeI\u0302 \u0327I\u0302\u00b7",
+            "eng": "came",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Passive",
+                        "3rd Person Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G1519",
+                "metadata": "Strong's Greek 1519: A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+            },
+            "transliteration": "eis",
+            "native": "I\u0302\u03bca\u03011\u20444\u00b0I\u0308\u0082",
+            "eng": "to",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymas",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G3056",
+                "metadata": "Strong's Greek 3056: From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+            },
+            "transliteration": "logA\u030a\u008d",
+            "native": "I\u0302\u00bbI\u0308\u008cI\u03023a\u0301\u00bf3",
+            "eng": "word",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G3440",
+                "metadata": "Strong's Greek 3440: Alone, but, only. Neuter of monos as adverb; merely."
+            },
+            "transliteration": "monon",
+            "native": "I\u03021\u20444I\u0308\u008cI\u03021\u20442I\u0302\u00bfI\u03021\u20442",
+            "eng": "only",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G235",
+                "metadata": "Strong's Greek 235: But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+            },
+            "transliteration": "alla",
+            "native": "a\u03011\u20444\u0080I\u0302\u00bbI\u0302\u00bba\u03011\u20442\u00b0",
+            "eng": "but",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "also",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G1411",
+                "metadata": "Strong's Greek 1411: From dunamai; force; specially, miraculous power."
+            },
+            "transliteration": "dynamei",
+            "native": "I\u0302 \u0301I\u0308\u0085I\u03021\u20442I\u0302\u00acI\u03021\u20444I\u0302\u03bcI\u03021",
+            "eng": "power",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G4151",
+                "metadata": "Strong's Greek 4151: Wind, breath, spirit. "
+            },
+            "transliteration": "Pneumati",
+            "native": "I\u0302 I\u03021\u20442I\u0302\u03bcI\u0308\u008dI\u03021\u20444I\u0302\u00b1I\u0308\u0084I\u03021",
+            "eng": "[the] Spirit",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G40",
+                "metadata": "Strong's Greek 40: Set apart by (or for) God, holy, sacred. From hagos; sacred."
+            },
+            "transliteration": "HagiA\u030a\u008d",
+            "native": "a\u03011\u20444\u0089I\u03023I\u0302 \u0304a\u0301\u00bf3",
+            "eng": "Holy",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "[a\u03011\u20444\u0090I\u03021\u20442]",
+            "eng": "with",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G4136",
+                "metadata": "Strong's Greek 4136: Full assurance, conviction, confidence. From plerophoreo; entire confidence."
+            },
+            "transliteration": "plA\u0308\u0093rophoria",
+            "native": "I\u0308\u0080I\u0302\u00bbI\u0302\u00b7I\u0308\u0081I\u0302\u00bfI\u0308\u0086I\u0302\u00bfI\u0308\u0081I\u0302 \u0304a\u03013\u204443",
+            "eng": "full assurance",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "strongs": {
+                "data": "G4183",
+                "metadata": "Strong's Greek 4183: Much, many; often. "
+            },
+            "transliteration": "pollA\u0308\u0093",
+            "native": "I\u0308\u0080I\u0302\u00bfI\u0302\u00bbI\u0302\u00bba\u0301\u00bf\u0087",
+            "eng": "much",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "24": {
+            "strongs": {
+                "data": "G2531",
+                "metadata": "Strong's Greek 2531: According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+            },
+            "transliteration": "kathA\u030a\u008ds",
+            "native": "I\u0302oI\u0302\u00b1I\u0302 \u0327a\u03011\u204421\u20444I\u0308\u0082",
+            "eng": "just as",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "25": {
+            "strongs": {
+                "data": "G1492",
+                "metadata": "Strong's Greek 1492: To know, remember, appreciate. "
+            },
+            "transliteration": "oidate",
+            "native": "I\u0302\u00bfa\u03011\u20444 \u0301I\u0302 \u0301I\u0302\u00b1I\u0308\u0084I\u0302\u03bc",
+            "eng": "you know",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Perfect Indicative Active",
+                        "2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "strongs": {
+                "data": "G3634",
+                "metadata": "Strong's Greek 3634: Probably akin to ho, hos, and hosos; such or what sort of; especially the neuter with negative, not so."
+            },
+            "transliteration": "hoioi",
+            "native": "I\u0302\u00bfa\u03011\u20444\u00b7I\u0302\u00bfI\u03021",
+            "eng": "what",
+            "grammar": [
+                {
+                    "pos": "personal / relative pronoun",
+                    "attributes": [
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "27": {
+            "strongs": {
+                "data": "G1096",
+                "metadata": "Strong's Greek 1096: A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+            },
+            "transliteration": "egenA\u0308\u0093thA\u0308\u0093men",
+            "native": "a\u03011\u20444\u0090I\u03023I\u0302\u03bcI\u03021\u20442I\u0302\u00aeI\u0302 \u0327I\u0302\u00b7I\u03021\u20444I\u0302\u03bcI\u03021\u20442",
+            "eng": "we were",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Passive",
+                        "1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "28": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "among",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "29": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymin",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u0096I\u03021\u20442",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Dative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "30": {
+            "strongs": {
+                "data": "G1223",
+                "metadata": "Strong's Greek 1223: A primary preposition denoting the channel of an act; through."
+            },
+            "transliteration": "dia\u0302\u0080\u0099",
+            "native": "I\u0302 \u0301I\u03021a\u0302\u0080\u0099",
+            "eng": "on account of",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "31": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymas",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 2nd Person Plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "Kai",
+            "native": "I\u0302\u009aI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "And",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymeis",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444I\u0302\u03bca\u0301\u00bf\u0096I\u0308\u0082",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Nominative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G3402",
+                "metadata": "Strong's Greek 3402: An imitator, follower. From mimeomai; an imitator."
+            },
+            "transliteration": "mimA\u0308\u0093tai",
+            "native": "I\u03021\u20444I\u03021I\u03021\u20444I\u0302\u00b7I\u0308\u0084I\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "imitators",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G1096",
+                "metadata": "Strong's Greek 1096: A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+            },
+            "transliteration": "egenA\u0308\u0093thA\u0308\u0093te",
+            "native": "a\u03011\u20444\u0090I\u03023I\u0302\u03bcI\u03021\u20442I\u0302\u00aeI\u0302 \u0327I\u0302\u00b7I\u0308\u0084I\u0302\u03bc",
+            "eng": "became",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Passive",
+                        "2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "of the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G2962",
+                "metadata": "Strong's Greek 2962: Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+            },
+            "transliteration": "Kyriou",
+            "native": "I\u0302\u009aI\u0308\u0085I\u0308\u0081I\u0302 \u0304I\u0302\u00bfI\u0308",
+            "eng": "Lord",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G1209",
+                "metadata": "Strong's Greek 1209: To take, receive, accept, welcome. Middle voice of a primary verb; to receive."
+            },
+            "transliteration": "dexamenoi",
+            "native": "I\u0302 \u0301I\u0302\u03bcI\u03023\u20444I\u0302\u00acI\u03021\u20444I\u0302\u03bcI\u03021\u20442I\u0302\u00bfI\u03021",
+            "eng": "having received",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Participle Middle",
+                        "Nominative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ton",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G3056",
+                "metadata": "Strong's Greek 3056: From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+            },
+            "transliteration": "logon",
+            "native": "I\u0302\u00bbI\u0308\u008cI\u03023I\u0302\u00bfI\u03021\u20442",
+            "eng": "word",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G2347",
+                "metadata": "Strong's Greek 2347: Persecution, affliction, distress, tribulation. From thlibo; pressure."
+            },
+            "transliteration": "thlipsei",
+            "native": "I\u0302 \u0327I\u0302\u00bbI\u0302 \u0304I\u0308\u0088I\u0302\u03bcI\u03021",
+            "eng": "tribulation",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G4183",
+                "metadata": "Strong's Greek 4183: Much, many; often. "
+            },
+            "transliteration": "pollA\u0308\u0093",
+            "native": "I\u0308\u0080I\u0302\u00bfI\u0302\u00bbI\u0302\u00bba\u0301\u00bf\u0087",
+            "eng": "much",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G3326",
+                "metadata": "Strong's Greek 3326: (a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+            },
+            "transliteration": "meta",
+            "native": "I\u03021\u20444I\u0302\u03bcI\u0308\u0084a\u03011\u20442\u00b0",
+            "eng": "with",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G5479",
+                "metadata": "Strong's Greek 5479: Joy, gladness, a source of joy. From chairo; cheerfulness, i.e. Calm delight."
+            },
+            "transliteration": "charas",
+            "native": "I\u0308\u0087I\u0302\u00b1I\u0308\u0081a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "[the] joy",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G4151",
+                "metadata": "Strong's Greek 4151: Wind, breath, spirit. "
+            },
+            "transliteration": "Pneumatos",
+            "native": "I\u0302 I\u03021\u20442I\u0302\u03bcI\u0308\u008dI\u03021\u20444I\u0302\u00b1I\u0308\u0084I\u0302\u00bfI\u0308\u0082",
+            "eng": "of [the] Spirit",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Neuter Singular"
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G40",
+                "metadata": "Strong's Greek 40: Set apart by (or for) God, holy, sacred. From hagos; sacred."
+            },
+            "transliteration": "Hagiou",
+            "native": "a\u03011\u20444\u0089I\u03023I\u0302 \u0304I\u0302\u00bfI\u0308",
+            "eng": "Holy",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Genitive Neuter Singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "strongs": {
+                "data": "G5620",
+                "metadata": "Strong's Greek 5620: So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+            },
+            "transliteration": "hA\u030a\u008dste",
+            "native": "a\u03011\u20442\u00a5I\u0308\u0083I\u0308\u0084I\u0302\u03bc",
+            "eng": "so as for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G1096",
+                "metadata": "Strong's Greek 1096: A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+            },
+            "transliteration": "genesthai",
+            "native": "I\u03023I\u0302\u03bcI\u03021\u20442I\u0302\u00adI\u0308\u0083I\u0302 \u0327I\u0302\u00b1I\u03021",
+            "eng": "to became",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Infinitive Middle"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymas",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G5179",
+                "metadata": "Strong's Greek 5179: From tupto; a die, i.e. a stamp or scar; by analogy, a shape, i.e. A statue, style or resemblance; specially, a sampler, i.e. A model or instance."
+            },
+            "transliteration": "typon",
+            "native": "I\u0308\u0084I\u0308\u008dI\u0308\u0080I\u0302\u00bfI\u03021\u20442",
+            "eng": "an example",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G3956",
+                "metadata": "Strong's Greek 3956: All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+            },
+            "transliteration": "pasin",
+            "native": "I\u0308\u0080a\u03013\u20444\u00b6I\u0308\u0083I\u03021I\u03021\u20442",
+            "eng": "to all",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tois",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u0096I\u0308\u0082",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G4100",
+                "metadata": "Strong's Greek 4100: From pistis; to have faith, i.e. Credit; by implication, to entrust."
+            },
+            "transliteration": "pisteuousin",
+            "native": "I\u0308\u0080I\u03021I\u0308\u0083I\u0308\u0084I\u0302\u03bcI\u0308\u008dI\u0302\u00bfI\u0308\u0085I\u0308\u0083I\u03021I\u03021\u20442",
+            "eng": "believing [ones]",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Active",
+                        "Dative Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0087",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G3109",
+                "metadata": "Strong's Greek 3109: (Hebrew), Macedonia, a Roman province north of Achaia (Greece). From Makedon; Macedonia, a region of Greece."
+            },
+            "transliteration": "Makedonia",
+            "native": "I\u0302\u009cI\u0302\u00b1I\u0302oI\u0302\u03bcI\u0302 \u0301I\u0302\u00bfI\u03021\u20442I\u0302 \u0304a\u03013\u204443",
+            "eng": "Macedonia",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0087",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G882",
+                "metadata": "Strong's Greek 882: Achaia, a country of Europe."
+            },
+            "transliteration": "Achaia",
+            "native": "a\u03011\u20444\u0088I\u0308\u0087I\u0302\u00b1I\u0302\u0090a\u03013\u204443",
+            "eng": "Achaia",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "strongs": {
+                "data": "G575",
+                "metadata": "Strong's Greek 575: From, away from. A primary particle; "
+            },
+            "transliteration": "apha\u0302\u0080\u0099",
+            "native": "a\u03011\u20444\u0080I\u0308\u0086a\u0302\u0080\u0099",
+            "eng": "From",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymA\u030a\u008dn",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G1063",
+                "metadata": "Strong's Greek 1063: For. A primary particle; properly, assigning a reason."
+            },
+            "transliteration": "gar",
+            "native": "I\u03023a\u03011\u20442\u00b0I\u0308\u0081",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G1837",
+                "metadata": "Strong's Greek 1837: To sound out (forth) (referring either to the clearness or to the loudness of the sound). "
+            },
+            "transliteration": "exA\u0308\u0093chA\u0308\u0093tai",
+            "native": "a\u03011\u20444\u0090I\u03023\u20444I\u0302\u00aeI\u0308\u0087I\u0302\u00b7I\u0308\u0084I\u0302\u00b1I\u03021",
+            "eng": "has sounded forth",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Perfect Indicative Middle or Passive",
+                        "3rd Person Singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ho",
+            "native": "a\u03011\u20442\u0081",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Nominative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3056",
+                "metadata": "Strong's Greek 3056: From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+            },
+            "transliteration": "logos",
+            "native": "I\u0302\u00bbI\u0308\u008cI\u03023I\u0302\u00bfI\u0308\u0082",
+            "eng": "word",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tou",
+            "native": "I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "of the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G2962",
+                "metadata": "Strong's Greek 2962: Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+            },
+            "transliteration": "Kyriou",
+            "native": "I\u0302\u009aI\u0308\u0085I\u0308\u0081I\u0302 \u0304I\u0302\u00bfI\u0308",
+            "eng": "Lord",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G3756",
+                "metadata": "Strong's Greek 3756: No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+            },
+            "transliteration": "ou",
+            "native": "I\u0302\u00bfa\u03011\u20442\u0090",
+            "eng": "not",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G3440",
+                "metadata": "Strong's Greek 3440: Alone, but, only. Neuter of monos as adverb; merely."
+            },
+            "transliteration": "monon",
+            "native": "I\u03021\u20444I\u0308\u008cI\u03021\u20442I\u0302\u00bfI\u03021\u20442",
+            "eng": "only",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0087",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G3109",
+                "metadata": "Strong's Greek 3109: (Hebrew), Macedonia, a Roman province north of Achaia (Greece). From Makedon; Macedonia, a region of Greece."
+            },
+            "transliteration": "Makedonia",
+            "native": "I\u0302\u009cI\u0302\u00b1I\u0302oI\u0302\u03bcI\u0302 \u0301I\u0302\u00bfI\u03021\u20442I\u0302 \u0304a\u03013\u204443",
+            "eng": "Macedonia",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "[a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0087]",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G882",
+                "metadata": "Strong's Greek 882: Achaia, a country of Europe."
+            },
+            "transliteration": "Achaia",
+            "native": "a\u03011\u20444\u0088I\u0308\u0087I\u0302\u00b1I\u0302\u0090a\u03013\u204443",
+            "eng": "Achaia",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G235",
+                "metadata": "Strong's Greek 235: But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+            },
+            "transliteration": "alla\u0302\u0080\u0099",
+            "native": "a\u03011\u20444\u0080I\u0302\u00bbI\u0302\u00bba\u0302\u0080\u0099",
+            "eng": "but",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G1722",
+                "metadata": "Strong's Greek 1722: In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; "
+            },
+            "transliteration": "en",
+            "native": "a\u03011\u20444\u0090I\u03021\u20442",
+            "eng": "in",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G3956",
+                "metadata": "Strong's Greek 3956: All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+            },
+            "transliteration": "panti",
+            "native": "I\u0308\u0080I\u0302\u00b1I\u03021\u20442I\u0308\u0084a\u03011\u20442\u00b6",
+            "eng": "every",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G5117",
+                "metadata": "Strong's Greek 5117: Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+            },
+            "transliteration": "topA\u030a\u008d",
+            "native": "I\u0308\u0084I\u0308\u008cI\u0308\u0080a\u0301\u00bf3",
+            "eng": "place",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "hA\u0308\u0093",
+            "native": "a\u03011\u20444\u00a1",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Nominative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "strongs": {
+                "data": "G4102",
+                "metadata": "Strong's Greek 4102: Faith, belief, trust, confidence; fidelity, faithfulness. "
+            },
+            "transliteration": "pistis",
+            "native": "I\u0308\u0080I\u0302 \u0304I\u0308\u0083I\u0308\u0084I\u03021I\u0308\u0082",
+            "eng": "faith",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Nominative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "24": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymA\u030a\u008dn",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "of you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "25": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "hA\u0308\u0093",
+            "native": "a\u03011\u20444\u00a1",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Nominative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "26": {
+            "strongs": {
+                "data": "G4314",
+                "metadata": "Strong's Greek 4314: To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+            },
+            "transliteration": "pros",
+            "native": "I\u0308\u0080I\u0308\u0081a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "toward",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "27": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ton",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "28": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "Theon",
+            "native": "I\u0302\u0098I\u0302\u03bca\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "29": {
+            "strongs": {
+                "data": "G1831",
+                "metadata": "Strong's Greek 1831: To go out, come out. From ek and erchomai; to issue."
+            },
+            "transliteration": "exelA\u0308\u0093lythen",
+            "native": "a\u03011\u20444\u0090I\u03023\u20444I\u0302\u03bcI\u0302\u00bbI\u0302\u00aeI\u0302\u00bbI\u0308\u0085I\u0302 \u0327I\u0302\u03bcI\u03021\u20442",
+            "eng": "has gone abroad",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Perfect Indicative Active",
+                        "3rd Person Singular"
+                    ]
+                }
+            ]
+        },
+        "30": {
+            "strongs": {
+                "data": "G5620",
+                "metadata": "Strong's Greek 5620: So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+            },
+            "transliteration": "hA\u030a\u008dste",
+            "native": "a\u03011\u20442\u00a5I\u0308\u0083I\u0308\u0084I\u0302\u03bc",
+            "eng": "so as for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "31": {
+            "strongs": {
+                "data": "G3361",
+                "metadata": "Strong's Greek 3361: Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+            },
+            "transliteration": "mA\u0308\u0093",
+            "native": "I\u03021\u20444a\u03011\u20442 \u0301",
+            "eng": "no",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "32": {
+            "strongs": {
+                "data": "G5532",
+                "metadata": "Strong's Greek 5532: From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution."
+            },
+            "transliteration": "chreian",
+            "native": "I\u0308\u0087I\u0308\u0081I\u0302\u03bcI\u0302 \u0304I\u0302\u00b1I\u03021\u20442",
+            "eng": "need",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "33": {
+            "strongs": {
+                "data": "G2192",
+                "metadata": "Strong's Greek 2192: To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+            },
+            "transliteration": "echein",
+            "native": "a\u03011\u20444\u0094I\u0308\u0087I\u0302\u03bcI\u03021I\u03021\u20442",
+            "eng": "to have",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Infinitive Active"
+                    ]
+                }
+            ]
+        },
+        "34": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mas",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "35": {
+            "strongs": {
+                "data": "G2980",
+                "metadata": "Strong's Greek 2980: A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+            },
+            "transliteration": "lalein",
+            "native": "I\u0302\u00bbI\u0302\u00b1I\u0302\u00bbI\u0302\u03bca\u0301\u00bf\u0096I\u03021\u20442",
+            "eng": "to say",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Infinitive Active"
+                    ]
+                }
+            ]
+        },
+        "36": {
+            "strongs": {
+                "data": "G5100",
+                "metadata": "Strong's Greek 5100: Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+            },
+            "transliteration": "ti",
+            "native": "I\u0308\u0084I\u03021",
+            "eng": "anything",
+            "grammar": [
+                {
+                    "pos": "interrogative / indefinite pronoun",
+                    "attributes": [
+                        "Accusative Neuter Singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "strongs": {
+                "data": "G846",
+                "metadata": "Strong's Greek 846: He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+            },
+            "transliteration": "autoi",
+            "native": "I\u0302\u00b1a\u03011\u20442\u0090I\u0308\u0084I\u0302\u00bfa\u03011\u20442\u00b6",
+            "eng": "They themselves",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Nominative Masculine 3rd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G1063",
+                "metadata": "Strong's Greek 1063: For. A primary particle; properly, assigning a reason."
+            },
+            "transliteration": "gar",
+            "native": "I\u03023a\u03011\u20442\u00b0I\u0308\u0081",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G4012",
+                "metadata": "Strong's Greek 4012: From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+            },
+            "transliteration": "peri",
+            "native": "I\u0308\u0080I\u0302\u03bcI\u0308\u0081a\u03011\u20442\u00b6",
+            "eng": "concerning",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mA\u030a\u008dn",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G518",
+                "metadata": "Strong's Greek 518: To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce."
+            },
+            "transliteration": "apangellousin",
+            "native": "a\u03011\u20444\u0080I\u0308\u0080I\u0302\u00b1I\u03023I\u03023I\u0302\u00adI\u0302\u00bbI\u0302\u00bbI\u0302\u00bfI\u0308\u0085I\u0308\u0083I\u03021I\u03021\u20442",
+            "eng": "report",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Indicative Active",
+                        "3rd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G3697",
+                "metadata": "Strong's Greek 3697: Of what kind or manner, of what sort. From hos and poios; of what kind that, i.e. How great."
+            },
+            "transliteration": "hopoian",
+            "native": "a\u03011\u20442\u0081I\u0308\u0080I\u0302\u00bfI\u0302 \u0304I\u0302\u00b1I\u03021\u20442",
+            "eng": "what",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G1529",
+                "metadata": "Strong's Greek 1529: (act of) entering, an entrance, entry. From eis and hodos; an entrance."
+            },
+            "transliteration": "eisodon",
+            "native": "I\u0302\u03bca\u03011\u20444 \u0301I\u0308\u0083I\u0302\u00bfI\u0302 \u0301I\u0302\u00bfI\u03021\u20442",
+            "eng": "reception",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G2192",
+                "metadata": "Strong's Greek 2192: To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+            },
+            "transliteration": "eschomen",
+            "native": "a\u03011\u20444\u0094I\u0308\u0083I\u0308\u0087I\u0302\u00bfI\u03021\u20444I\u0302\u03bcI\u03021\u20442",
+            "eng": "we had",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Active",
+                        "1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G4314",
+                "metadata": "Strong's Greek 4314: To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+            },
+            "transliteration": "pros",
+            "native": "I\u0308\u0080I\u0308\u0081a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G4771",
+                "metadata": "Strong's Greek 4771: You. The person pronoun of the second person singular; thou."
+            },
+            "transliteration": "hymas",
+            "native": "a\u03011\u20442\u0091I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "you",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G4459",
+                "metadata": "Strong's Greek 4459: Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+            },
+            "transliteration": "pA\u030a\u008ds",
+            "native": "I\u0308\u0080a\u0301\u00bf\u00b6I\u0308\u0082",
+            "eng": "how",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G1994",
+                "metadata": "Strong's Greek 1994: From epi and strepho; to revert."
+            },
+            "transliteration": "epestrepsate",
+            "native": "a\u03011\u20444\u0090I\u0308\u0080I\u0302\u03bcI\u0308\u0083I\u0308\u0084I\u0308\u0081I\u0302\u00adI\u0308\u0088I\u0302\u00b1I\u0308\u0084I\u0302\u03bc",
+            "eng": "you turned",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Active",
+                        "2nd Person Plural"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G4314",
+                "metadata": "Strong's Greek 4314: To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+            },
+            "transliteration": "pros",
+            "native": "I\u0308\u0080I\u0308\u0081a\u03011\u20442 \u0327I\u0308\u0082",
+            "eng": "to",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ton",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "Theon",
+            "native": "I\u0302\u0098I\u0302\u03bca\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G575",
+                "metadata": "Strong's Greek 575: From, away from. A primary particle; "
+            },
+            "transliteration": "apo",
+            "native": "a\u03011\u20444\u0080I\u0308\u0080a\u03011\u20442 \u0327",
+            "eng": "from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u030a\u008dn",
+            "native": "I\u0308\u0084a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Neuter Plural"
+                    ]
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G1497",
+                "metadata": "Strong's Greek 1497: An idol, false god. From eidos; an image; by implication, a heathen god, or the worship of such."
+            },
+            "transliteration": "eidA\u030a\u008dlA\u030a\u008dn",
+            "native": "I\u0302\u03bca\u03011\u20444\u00b0I\u0302 \u0301I\u0308\u008eI\u0302\u00bbI\u0308\u0089I\u03021\u20442",
+            "eng": "idols",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Neuter Plural"
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G1398",
+                "metadata": "Strong's Greek 1398: To be a slave, be subject to, obey, be devoted. From doulos; to be a slave to."
+            },
+            "transliteration": "douleuein",
+            "native": "I\u0302 \u0301I\u0302\u00bfI\u0308\u0085I\u0302\u00bbI\u0302\u03bcI\u0308\u008dI\u0302\u03bcI\u03021I\u03021\u20442",
+            "eng": "to serve",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Infinitive Active"
+                    ]
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G2316",
+                "metadata": "Strong's Greek 2316: A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+            },
+            "transliteration": "TheA\u030a\u008d",
+            "native": "I\u0302\u0098I\u0302\u03bca\u0301\u00bf\u00b7",
+            "eng": "[the] God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G2198",
+                "metadata": "Strong's Greek 2198: To live, be alive. A primary verb; to live."
+            },
+            "transliteration": "zA\u030a\u008dnti",
+            "native": "I\u0302\u00b6a\u0301\u00bf\u00b6I\u03021\u20442I\u0308\u0084I\u03021",
+            "eng": "living",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Active",
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "23": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "24": {
+            "strongs": {
+                "data": "G228",
+                "metadata": "Strong's Greek 228: True (lit: made of truth), real, genuine. From alethes; truthful."
+            },
+            "transliteration": "alA\u0308\u0093thinA\u030a\u008d",
+            "native": "a\u03011\u20444\u0080I\u0302\u00bbI\u0302\u00b7I\u0302 \u0327I\u03021I\u03021\u20442a\u0301\u00bf\u00b7",
+            "eng": "TRUE",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Dative Masculine Singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "strongs": {
+                "data": "G2532",
+                "metadata": "Strong's Greek 2532: And, even, also, namely. "
+            },
+            "transliteration": "kai",
+            "native": "I\u0302oI\u0302\u00b1a\u03011\u20442\u00b6",
+            "eng": "and",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "G362",
+                "metadata": "Strong's Greek 362: To await (one whose coming is expected). From ana and meno; to await."
+            },
+            "transliteration": "anamenein",
+            "native": "a\u03011\u20444\u0080I\u03021\u20442I\u0302\u00b1I\u03021\u20444I\u0302\u00adI\u03021\u20442I\u0302\u03bcI\u03021I\u03021\u20442",
+            "eng": "to await",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Infinitive Active"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ton",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "G5207",
+                "metadata": "Strong's Greek 5207: A son, descendent. Apparently a primary word; a "
+            },
+            "transliteration": "Huion",
+            "native": "I\u0302\u00a5a\u03011\u20444\u00b1a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "Son",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "G846",
+                "metadata": "Strong's Greek 846: He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+            },
+            "transliteration": "autou",
+            "native": "I\u0302\u00b1a\u03011\u20442\u0090I\u0308\u0084I\u0302\u00bfa\u0301\u00bf\u00a6",
+            "eng": "of Him",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Genitive Masculine 3rd Person Singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "G1537",
+                "metadata": "Strong's Greek 1537: From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+            },
+            "transliteration": "ek",
+            "native": "a\u03011\u20444\u0090I\u0302o",
+            "eng": "from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u030a\u008dn",
+            "native": "I\u0308\u0084a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "G3772",
+                "metadata": "Strong's Greek 3772: Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+            },
+            "transliteration": "ouranA\u030a\u008dn",
+            "native": "I\u0302\u00bfa\u03011\u20442\u0090I\u0308\u0081I\u0302\u00b1I\u03021\u20442a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "heavens",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "G3739",
+                "metadata": "Strong's Greek 3739: Who, which, what, that. "
+            },
+            "transliteration": "hon",
+            "native": "a\u03011\u20442\u0083I\u03021\u20442",
+            "eng": "whom",
+            "grammar": [
+                {
+                    "pos": "personal / relative pronoun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "G1453",
+                "metadata": "Strong's Greek 1453: (a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+            },
+            "transliteration": "A\u0308\u0093geiren",
+            "native": "a\u03011\u20444\u00a4I\u03023I\u0302\u03bcI\u03021I\u0308\u0081I\u0302\u03bcI\u03021\u20442",
+            "eng": "He raised",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Aorist Indicative Active",
+                        "3rd Person Singular"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "G1537",
+                "metadata": "Strong's Greek 1537: From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+            },
+            "transliteration": "ek",
+            "native": "a\u03011\u20444\u0090I\u0302o",
+            "eng": "out from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u030a\u008dn",
+            "native": "I\u0308\u0084a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "13": {
+            "strongs": {
+                "data": "G3498",
+                "metadata": "Strong's Greek 3498: (a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+            },
+            "transliteration": "nekrA\u030a\u008dn",
+            "native": "I\u03021\u20442I\u0302\u03bcI\u0302oI\u0308\u0081a\u0301\u00bf\u00b6I\u03021\u20442",
+            "eng": "dead",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "Genitive Masculine Plural"
+                    ]
+                }
+            ]
+        },
+        "14": {
+            "strongs": {
+                "data": "G2424",
+                "metadata": "Strong's Greek 2424: Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+            },
+            "transliteration": "IA\u0308\u0093soun",
+            "native": "a\u03011\u20444 \u0327I\u0302\u00b7I\u0308\u0083I\u0302\u00bfa\u0301\u00bf\u00a6I\u03021\u20442",
+            "eng": "Jesus",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "15": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "ton",
+            "native": "I\u0308\u0084a\u03011\u20442 \u0327I\u03021\u20442",
+            "eng": "the [one]",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "16": {
+            "strongs": {
+                "data": "G4506",
+                "metadata": "Strong's Greek 4506: To rescue, deliver (from danger or destruction). "
+            },
+            "transliteration": "rhyomenon",
+            "native": "a\u0301\u00bf\u00a5I\u0308\u0085I\u0308\u008cI\u03021\u20444I\u0302\u03bcI\u03021\u20442I\u0302\u00bfI\u03021\u20442",
+            "eng": "delivering",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Middle or Passive",
+                        "Accusative Masculine Singular"
+                    ]
+                }
+            ]
+        },
+        "17": {
+            "strongs": {
+                "data": "G1473",
+                "metadata": "Strong's Greek 1473: I, the first-person pronoun. A primary pronoun of the first person I."
+            },
+            "transliteration": "hA\u0308\u0093mas",
+            "native": "a\u03011\u20444\u00a1I\u03021\u20444a\u03013\u20444\u00b6I\u0308\u0082",
+            "eng": "us",
+            "grammar": [
+                {
+                    "pos": "personal / possessive pronoun",
+                    "attributes": [
+                        "Accusative 1st Person Plural"
+                    ]
+                }
+            ]
+        },
+        "18": {
+            "strongs": {
+                "data": "G1537",
+                "metadata": "Strong's Greek 1537: From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+            },
+            "transliteration": "ek",
+            "native": "a\u03011\u20444\u0090I\u0302o",
+            "eng": "from",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "19": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "the",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "20": {
+            "strongs": {
+                "data": "G3709",
+                "metadata": "Strong's Greek 3709: From oregomai; properly, desire, i.e., violent passion (justifiable) abhorrence); by implication punishment."
+            },
+            "transliteration": "orgA\u0308\u0093s",
+            "native": "a\u03011\u20442\u0080I\u0308\u0081I\u03023a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "wrath",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "21": {
+            "strongs": {
+                "data": "G3588",
+                "metadata": "Strong's Greek 3588: The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+            },
+            "transliteration": "tA\u0308\u0093s",
+            "native": "I\u0308\u0084a\u0301\u00bf\u0086I\u0308\u0082",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "article",
+                    "attributes": [
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        },
+        "22": {
+            "strongs": {
+                "data": "G2064",
+                "metadata": "Strong's Greek 2064: To come, go. "
+            },
+            "transliteration": "erchomenA\u0308\u0093s",
+            "native": "a\u03011\u20444\u0090I\u0308\u0081I\u0308\u0087I\u0302\u00bfI\u03021\u20444I\u0302\u00adI\u03021\u20442I\u0302\u00b7I\u0308\u0082",
+            "eng": "coming",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Present Participle Middle or Passive",
+                        "Genitive Feminine Singular"
+                    ]
+                }
+            ]
+        }
+    }
+}
