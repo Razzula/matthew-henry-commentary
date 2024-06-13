@@ -103,7 +103,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "4": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G1473", "token": "6" },
         { "content": "tell", "type": "wj", "strongs": "G3004", "token": "1" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -169,7 +169,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "6": [
-        { "content": "“Aren’", "type": "wj p" },
+        { "content": "“Aren’", "type": "p wj" },
         { "content": "t", "type": "wj", "strongs": "G3588", "token": "15" },
         { "content": "five", "type": "wj", "strongs": "G4002", "token": "2" },
         { "content": "sparrows", "type": "wj", "strongs": "G4765", "token": "3" },
@@ -217,7 +217,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "8": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G1473", "token": "9" },
         { "content": "tell", "type": "wj", "strongs": "G3004", "token": "1" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -526,7 +526,7 @@
         { "content": ".”’", "type": "wj" }
     ],
     "20": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "But", "type": "wj", "strongs": "G1161" },
         { "content": "God", "type": "wj", "strongs": "G2316", "token": "5" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -780,7 +780,7 @@
         { "content": "?", "type": "wj punctuation" }
     ],
     "29": [
-        { "content": "“Don’t", "type": "wj p" },
+        { "content": "“Don’t", "type": "p wj" },
         { "content": "seek", "type": "wj", "strongs": "G2212", "token": "4" },
         { "content": "what", "type": "wj", "strongs": "G5101" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -838,7 +838,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "32": [
-        { "content": "“Don’", "type": "wj p" },
+        { "content": "“Don’", "type": "p wj" },
         { "content": "t", "type": "wj", "strongs": "G3588" },
         { "content": "be", "type": "wj", "strongs": "G3361", "token": "1" },
         { "content": "afraid", "type": "wj", "strongs": "G5399", "token": "2" },
@@ -917,7 +917,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "35": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Let", "type": "wj", "strongs": "G1510", "token": "1" },
         { "content": "your", "type": "wj", "strongs": "G2532", "token": "6" },
         { "content": "waist", "type": "wj", "strongs": "G3751", "token": "4" },
@@ -1322,7 +1322,7 @@
         { "content": "asked.", "type": "wj" }
     ],
     "49": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G2532", "token": "7" },
         { "content": "came", "type": "wj", "strongs": "G2064", "token": "2" },
         { "content": "to", "type": "wj", "strongs": "G2532", "token": "7" },
@@ -1538,7 +1538,7 @@
         { "content": "?", "type": "wj punctuation" }
     ],
     "57": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Why", "type": "wj", "strongs": "G5101", "token": "1" },
         { "content": "don’", "type": "wj" },
         { "content": "t", "type": "wj", "strongs": "G3588", "token": "8" },

@@ -70,7 +70,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "3": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "The", "type": "wj", "strongs": "G1722", "token": "3" },
         { "content": "manager", "type": "wj", "strongs": "G3623", "token": "6" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -231,7 +231,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "8": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "His", "type": "wj", "strongs": "G1438", "token": "28" },
         { "content": "lord", "type": "wj", "strongs": "G2962", "token": "4" },
         { "content": "commended", "type": "wj", "strongs": "G1867", "token": "2" },
@@ -483,7 +483,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "16": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "The", "type": "wj", "strongs": "G2532" },
         { "content": "law", "type": "wj", "strongs": "G3551", "token": "2" },
         { "content": "and", "type": "wj", "strongs": "G2532" },
@@ -543,7 +543,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "18": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Everyone", "type": "wj", "strongs": "G3956", "token": "1" },
         { "content": "who", "type": "wj", "strongs": "G3588" },
         { "content": "divorces", "type": "wj" },
@@ -570,7 +570,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "19": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Now", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "there", "type": "wj", "strongs": "G2532" },
         { "content": "was", "type": "wj", "strongs": "G1510", "token": "4" },
@@ -739,7 +739,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "25": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "But", "type": "wj", "strongs": "G1161" },
         { "content": "Abraham", "type": "wj" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -825,7 +825,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "27": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": ", ‘", "type": "wj" },
@@ -874,7 +874,7 @@
         { "content": "torment.’", "type": "wj" }
     ],
     "29": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "But", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "Abraham", "type": "wj" },
         { "content": "said", "type": "wj", "strongs": "G3004", "token": "1" },
@@ -896,7 +896,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "30": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": ", ‘", "type": "wj" },
@@ -920,7 +920,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "31": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G2532" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": "to", "type": "wj", "strongs": "G2532" },

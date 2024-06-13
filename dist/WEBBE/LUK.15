@@ -167,7 +167,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "8": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Or", "type": "wj", "strongs": "G2228", "token": "1" },
         { "content": "what", "type": "wj", "strongs": "G5101", "token": "2" },
         { "content": "woman", "type": "wj", "strongs": "G1135", "token": "3" },
@@ -491,7 +491,7 @@
         { "content": "servants.”’", "type": "wj" }
     ],
     "20": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G2532" },
         { "content": "arose", "type": "wj" },
         { "content": "and", "type": "wj", "strongs": "G2532" },
@@ -563,7 +563,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "22": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "But", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "the", "type": "wj", "strongs": "G2532" },
         { "content": "father", "type": "wj", "strongs": "G3962", "token": "4" },
@@ -642,7 +642,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "25": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Now", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "his", "type": "wj", "strongs": "G1722", "token": "8" },
         { "content": "elder", "type": "wj", "strongs": "G4245", "token": "7" },
@@ -803,7 +803,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "31": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G2532", "token": "11" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": "to", "type": "wj", "strongs": "G2532", "token": "11" },

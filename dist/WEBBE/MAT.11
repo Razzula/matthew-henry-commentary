@@ -363,7 +363,7 @@
         { "content": "hear.", "type": "wj" }
     ],
     "16": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "But", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "to", "type": "wj", "strongs": "G1722", "token": "11" },
         { "content": "what", "type": "wj", "strongs": "G5101", "token": "1" },
@@ -731,7 +731,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "28": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Come", "type": "wj", "strongs": "G1205", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G4314", "token": "2" },
         { "content": "me", "type": "wj", "strongs": "G1473", "token": "3" },

@@ -1,6 +1,6 @@
 {
     "1": [
-        { "content": "“Don’", "type": "wj p" },
+        { "content": "“Don’", "type": "p wj" },
         { "content": "t", "type": "wj", "strongs": "G3588" },
         { "content": "let", "type": "wj", "strongs": "G5015", "token": "2" },
         { "content": "your", "type": "wj", "strongs": "G2532", "token": "10" },
@@ -696,7 +696,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "25": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G3778", "token": "1" },
         { "content": "have", "type": "wj", "strongs": "G5210" },
         { "content": "said", "type": "wj", "strongs": "G2980", "token": "2" },

@@ -690,7 +690,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "27": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Now", "type": "wj", "strongs": "G3568", "token": "1" },
         { "content": "my", "type": "wj", "strongs": "G1473" },
         { "content": "soul", "type": "wj", "strongs": "G5590", "token": "3" },

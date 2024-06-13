@@ -480,7 +480,7 @@
         { "content": "make", "type": "wj", "strongs": "G2532" },
         { "content": "excuses", "type": "wj", "strongs": "G3868" },
         { "content": ".", "type": "wj punctuation" },
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "The", "type": "wj", "strongs": "G2532" },
         { "content": "first", "type": "wj", "strongs": "G4413", "token": "8" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -507,7 +507,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "19": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Another", "type": "wj", "strongs": "G2087", "token": "2" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": ", ‘", "type": "wj" },
@@ -534,7 +534,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "20": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Another", "type": "wj", "strongs": "G2087", "token": "2" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
         { "content": ", ‘", "type": "wj" },
@@ -553,7 +553,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "21": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "That", "type": "wj", "strongs": "G3588" },
         { "content": "servant", "type": "wj", "strongs": "G1401" },
         { "content": "came", "type": "wj", "strongs": "G1831", "token": "18" },
@@ -605,7 +605,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "22": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "The", "type": "wj", "strongs": "G2532" },
         { "content": "servant", "type": "wj", "strongs": "G1401", "token": "4" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -627,7 +627,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "23": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "The", "type": "wj", "strongs": "G2532" },
         { "content": "lord", "type": "wj", "strongs": "G2962", "token": "4" },
         { "content": "said", "type": "wj", "strongs": "G3004" },
@@ -933,7 +933,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "34": [
-        { "content": "“Salt", "type": "wj p" },
+        { "content": "“Salt", "type": "p wj" },
         { "content": "is", "type": "wj", "strongs": "G3588" },
         { "content": "good", "type": "wj", "strongs": "G2570", "token": "1" },
         { "content": ",", "type": "wj punctuation" },

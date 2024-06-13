@@ -958,7 +958,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "33": [
-        { "content": "“Hear", "type": "wj p" },
+        { "content": "“Hear", "type": "p wj" },
         { "content": "another", "type": "wj", "strongs": "G1722", "token": "16" },
         { "content": "parable", "type": "wj", "strongs": "G3850", "token": "2" },
         { "content": ".", "type": "wj punctuation" },
@@ -1202,7 +1202,7 @@
         { "content": ",", "type": "wj punctuation" }
     ],
     "43": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Therefore", "type": "wj", "strongs": "G1223", "token": "1" },
         { "content": "I", "type": "wj", "strongs": "G2532", "token": "13" },
         { "content": "tell", "type": "wj", "strongs": "G3004", "token": "3" },

@@ -242,7 +242,7 @@
         { "content": "t", "type": "wj", "strongs": "G3588" },
         { "content": "be", "type": "wj", "strongs": "G2532", "token": "15" },
         { "content": "afraid", "type": "wj", "strongs": "G5399", "token": "12" },
-        { "content": ",", "type": "punctuation wj" },
+        { "content": ",", "type": "wj punctuation" },
         { "content": "but", "type": "wj", "strongs": "G1161", "token": "2" },
         { "content": "speak", "type": "wj", "strongs": "G2980", "token": "14" },
         { "content": "and", "type": "wj", "strongs": "G2532", "token": "15" },
@@ -250,7 +250,7 @@
         { "content": "t", "type": "wj", "strongs": "G3588" },
         { "content": "be", "type": "wj", "strongs": "G2532", "token": "15" },
         { "content": "silent", "type": "wj", "strongs": "G4623", "token": "17" },
-        { "content": ";", "type": "punctuation wj" }
+        { "content": ";", "type": "wj punctuation" }
     ],
     "10": [
         { "content": "for", "type": "wj", "strongs": "G1722", "token": "18" },
@@ -258,7 +258,7 @@
         { "content": "am", "type": "wj", "strongs": "G1510" },
         { "content": "with", "type": "wj", "strongs": "G3326", "token": "4" },
         { "content": "you", "type": "wj", "strongs": "G4771" },
-        { "content": ",", "type": "punctuation wj" },
+        { "content": ",", "type": "wj punctuation" },
         { "content": "and", "type": "wj", "strongs": "G2532", "token": "6" },
         { "content": "no", "type": "wj", "strongs": "G3762", "token": "7" },
         { "content": "one", "type": "wj", "strongs": "G3762", "token": "7" },
@@ -268,7 +268,7 @@
         { "content": "to", "type": "wj", "strongs": "G2532", "token": "6" },
         { "content": "harm", "type": "wj", "strongs": "G2559", "token": "11" },
         { "content": "you", "type": "wj", "strongs": "G4771" },
-        { "content": ",", "type": "punctuation wj" },
+        { "content": ",", "type": "wj punctuation" },
         { "content": "for", "type": "wj", "strongs": "G1722", "token": "18" },
         { "content": "I", "type": "wj", "strongs": "G1473" },
         { "content": "have", "type": "wj", "strongs": "G2532", "token": "6" },

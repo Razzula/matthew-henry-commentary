@@ -973,7 +973,7 @@
         { "content": ",", "type": "wj punctuation" }
     ],
     "37": [
-        { "content": "Therefore", "type": "wj p", "strongs": "G2532" },
+        { "content": "Therefore", "type": "p wj", "strongs": "G2532" },
         { "content": "David", "type": "wj", "strongs": "G1138", "token": "2" },
         { "content": "himself", "type": "wj" },
         { "content": "calls", "type": "wj", "strongs": "G3004", "token": "3" },

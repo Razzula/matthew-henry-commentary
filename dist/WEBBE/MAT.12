@@ -638,7 +638,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "30": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "He", "type": "wj", "strongs": "G2532", "token": "9" },
         { "content": "who", "type": "wj", "strongs": "G3588" },
         { "content": "is", "type": "wj", "strongs": "G1510" },
@@ -735,7 +735,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "33": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Either", "type": "wj", "strongs": "G2228" },
         { "content": "make", "type": "wj", "strongs": "G4160" },
         { "content": "the", "type": "wj", "strongs": "G2532" },
@@ -1048,7 +1048,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "43": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "When", "type": "wj", "strongs": "G3752", "token": "1" },
         { "content": "an", "type": "wj", "strongs": "G2532", "token": "16" },
         { "content": "unclean", "type": "wj" },

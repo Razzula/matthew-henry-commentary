@@ -1,6 +1,6 @@
 {
     "1": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G1473" },
         { "content": "am", "type": "wj", "strongs": "G1510" },
         { "content": "the", "type": "wj", "strongs": "G2532", "token": "7" },
@@ -201,7 +201,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "8": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "In", "type": "wj", "strongs": "G1722", "token": "1" },
         { "content": "this", "type": "wj", "strongs": "G3778", "token": "2" },
         { "content": "my", "type": "wj", "strongs": "G1699", "token": "13" },
@@ -300,7 +300,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "12": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "This", "type": "wj", "strongs": "G3778", "token": "1" },
         { "content": "is", "type": "wj", "strongs": "G1510", "token": "2" },
         { "content": "my", "type": "wj", "strongs": "G1699", "token": "6" },
@@ -449,7 +449,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "17": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G3778", "token": "1" },
         { "content": "command", "type": "wj", "strongs": "G1781", "token": "2" },
         { "content": "these", "type": "wj", "strongs": "G3778", "token": "1" },
@@ -699,7 +699,7 @@
         { "type": "note", "content": "Psalms 35:19; 69:4" }
     ],
     "26": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "When", "type": "wj", "strongs": "G3752", "token": "1" },
         { "content": "the", "type": "wj", "strongs": "G3588" },
         { "content": "Counsellor", "type": "wj" },

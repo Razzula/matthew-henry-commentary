@@ -138,7 +138,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "6": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G1473", "token": "9" },
         { "content": "revealed", "type": "wj", "strongs": "G5319", "token": "1" },
         { "content": "your", "type": "wj", "strongs": "G4674", "token": "13" },
@@ -528,7 +528,7 @@
         { "content": "truth.", "type": "wj" }
     ],
     "20": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Not", "type": "wj", "strongs": "G3756", "token": "1" },
         { "content": "for", "type": "wj", "strongs": "G1519", "token": "16" },
         { "content": "these", "type": "wj", "strongs": "G3778", "token": "3" },

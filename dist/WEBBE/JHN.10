@@ -1,6 +1,6 @@
 {
     "1": [
-        { "content": "“Most", "type": "wj p" },
+        { "content": "“Most", "type": "p wj" },
         { "content": "certainly", "type": "wj", "strongs": "G2532", "token": "22" },
         { "content": ",", "type": "wj punctuation" },
         { "content": "I", "type": "wj", "strongs": "G2532", "token": "22" },
@@ -253,7 +253,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "11": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "I", "type": "wj", "strongs": "G1473", "token": "1" },
         { "content": "am", "type": "wj", "strongs": "G1510", "token": "2" },
         { "content": "the", "type": "wj", "strongs": "G3588" },

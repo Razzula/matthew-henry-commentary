@@ -921,7 +921,7 @@
         { "content": ".’", "type": "wj" }
     ],
     "34": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Jerusalem", "type": "wj", "strongs": "G2419" },
         { "content": ",", "type": "wj punctuation" },
         { "content": "Jerusalem", "type": "wj", "strongs": "G2419" },

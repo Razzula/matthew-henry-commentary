@@ -257,7 +257,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "13": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G2532", "token": "5" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -287,7 +287,7 @@
         { "content": "condemnation.", "type": "wj" }
     ],
     "14": [
-        { "content": "“But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.", "type": "wj p" },
+        { "content": "“But woe to you, scribes and Pharisees, hypocrites! Because you shut up the Kingdom of Heaven against men; for you don’t enter in yourselves, neither do you allow those who are entering in to enter.", "type": "p wj" },
         { "type": "note", "content": "Some Greek texts reverse the order of verses 13 and 14, and some omit verse 13, numbering verse 14 as 13. NU omits verse 14." }
     ],
     "15": [
@@ -336,7 +336,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "16": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G3004", "token": "6" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -509,7 +509,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "23": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G2532" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -580,7 +580,7 @@
         { "content": "!", "type": "wj punctuation" }
     ],
     "25": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G2532" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -642,7 +642,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "27": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G2532" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -701,7 +701,7 @@
         { "content": "iniquity.", "type": "wj" }
     ],
     "29": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Woe", "type": "wj", "strongs": "G3759", "token": "1" },
         { "content": "to", "type": "wj", "strongs": "G2532" },
         { "content": "you", "type": "wj", "strongs": "G5210" },
@@ -912,7 +912,7 @@
         { "content": ".", "type": "wj punctuation" }
     ],
     "37": [
-        { "content": "“", "type": "wj p" },
+        { "content": "“", "type": "p wj" },
         { "content": "Jerusalem", "type": "wj", "strongs": "G2419" },
         { "content": ",", "type": "wj punctuation" },
         { "content": "Jerusalem", "type": "wj", "strongs": "G2419" },
