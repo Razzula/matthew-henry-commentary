@@ -1,0 +1,2264 @@
+{
+    "1": {
+        "1": {
+            "strongs": {
+                "data": "H4210",
+                "metadata": "Strong's Hebrew 4210: 1) melody, psalm"
+            },
+            "translit": "miz·mō·wr",
+            "native": "מִזְמ֥וֹר",
+            "eng": "A Psalm",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H7892",
+                "metadata": "Strong's Hebrew 7892: n m <BR> 1) song <BR> 1a) lyric song <BR> 1b) religious song <BR> 1c) song of Levitical choirs <BR> n f <BR> 2) song <BR> 2a) song, ode"
+            },
+            "translit": "šîr,",
+            "native": "שִׁ֗יר",
+            "eng": "a Song",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3117",
+                "metadata": "Strong's Hebrew 3117: 1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow"
+            },
+            "translit": "lə·yō·wm",
+            "native": "לְי֣וֹם",
+            "punct": ".",
+            "eng": "for day",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H7676",
+                "metadata": "Strong's Hebrew 7676: 1) Sabbath <BR> 1a) sabbath <BR> 1b) day of atonement <BR> 1c) sabbath year <BR> 1d) week <BR> 1e) produce (in sabbath year)"
+            },
+            "translit": "haš·šab·bāṯ.",
+            "native": "הַשַּׁבָּֽת׃",
+            "eng": "The Sabbath",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "common singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H2896",
+                "metadata": "Strong's Hebrew 2896: adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty"
+            },
+            "translit": "ṭō·wḇ,",
+            "native": "ט֗וֹב",
+            "eng": "[it is] good",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3034",
+                "metadata": "Strong's Hebrew 3034: 1) to throw, shoot, cast <BR> 1a) (Qal) to shoot (arrows) <BR> 1b) (Piel) to cast, cast down, throw down <BR> 1c) (Hiphil) <BR> 1c1) to give thanks, laud, praise <BR> 1c2) to confess, confess (the name of God) <BR> 1d) (Hithpael) <BR> 1d1) to confess (sin) <BR> 1d2) to give thanks"
+            },
+            "translit": "lə·hō·ḏō·wṯ",
+            "native": "לְהֹד֥וֹת",
+            "eng": "to give thanks",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Infinitive construct"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh;",
+            "native": "לַיהוָ֑ה",
+            "eng": "to Yahweh",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H2167",
+                "metadata": "Strong's Hebrew 2167: 1) to sing, sing praise, make music <BR> 1a) (Piel) <BR> 1a1) to make music, sing <BR> 1a2) to play a musical instrument"
+            },
+            "translit": "ū·lə·zam·mêr",
+            "native": "וּלְזַמֵּ֖ר",
+            "eng": "and to sing praises",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Piel",
+                        "Infinitive construct"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "H8034",
+                "metadata": "Strong's Hebrew 8034: 1) name <BR> 1a) name <BR> 1b) reputation, fame, glory <BR> 1c) the Name (as designation of God) <BR> 1d) memorial, monument"
+            },
+            "translit": "lə·šim·ḵā",
+            "native": "לְשִׁמְךָ֣",
+            "eng": "to Your name",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "H5945",
+                "metadata": "Strong's Hebrew 5945: adj <BR> 1) high, upper <BR> 1a) of Davidic king exalted above monarchs<BR> n m <BR> 2) Highest, Most High <BR> 2a) name of God <BR> 2b) of rulers, either monarchs or angel-princes"
+            },
+            "translit": "‘el·yō·wn.",
+            "native": "עֶלְיֽוֹן׃",
+            "eng": "Most High",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "strongs": {
+                "data": "H5046",
+                "metadata": "Strong's Hebrew 5046: 1) to be conspicuous, tell, make known <BR> 1a) (Hiphil) to tell, declare <BR> 1a1) to tell, announce, report <BR> 1a2) to declare, make known, expound <BR> 1a3) to inform of <BR> 1a4) to publish, declare, proclaim <BR> 1a5) to avow, acknowledge, confess <BR> 1a5a) messenger (participle) <BR> 1b) (Hophal) to be told, be announced, be reported"
+            },
+            "translit": "lə·hag·gîḏ",
+            "native": "לְהַגִּ֣יד",
+            "eng": "to declare",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Infinitive construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H1242",
+                "metadata": "Strong's Hebrew 1242: 1) morning, break of day <BR> 1a) morning <BR> 1a1) of end of night <BR> 1a2) of coming of daylight <BR> 1a3) of coming of sunrise <BR> 1a4) of beginning of day <BR> 1a5) of bright joy after night of distress (fig.) <BR> 1b) morrow, next day, next morning"
+            },
+            "translit": "bab·bō·qer",
+            "native": "בַּבֹּ֣קֶר",
+            "eng": "in the morning",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·de·ḵā;",
+            "native": "חַסְֽדֶּ֑ךָ",
+            "eng": "Your lovingkindness",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H530",
+                "metadata": "Strong's Hebrew 530: 1) firmness, fidelity, steadfastness, steadiness"
+            },
+            "translit": "we·’ĕ·mū·nā·ṯə·ḵā,",
+            "native": "וֶ֝אֱמֽוּנָתְךָ֗",
+            "eng": "and Your faithfulness",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3915",
+                "metadata": "Strong's Hebrew 3915: 1) night <BR> 1a) night (as opposed to day) <BR> 1b) of gloom, protective shadow (fig.)"
+            },
+            "translit": "bal·lê·lō·wṯ.",
+            "native": "בַּלֵּילֽוֹת׃",
+            "eng": "every night",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "strongs": {
+                "data": "H5921",
+                "metadata": "Strong's Hebrew 5921: prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although"
+            },
+            "translit": "‘ălê-",
+            "native": "עֲ‍ֽלֵי־",
+            "eng": "On",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H6218",
+                "metadata": "Strong's Hebrew 6218: 1) ten, decade <BR> 1a) ten, tenth <BR> 1b) ten-stringed, harp"
+            },
+            "translit": "‘ā·śō·wr",
+            "native": "עָ֭שׂוֹר",
+            "eng": "an [instrument] of ten [strings]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5921",
+                "metadata": "Strong's Hebrew 5921: prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although"
+            },
+            "translit": "wa·‘ă·lê-",
+            "native": "וַעֲלֵי־",
+            "eng": "and on",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H5035",
+                "metadata": "Strong's Hebrew 5035: 1) a skin-bag, jar, pitcher<BR> 1a) skin-bottle, skin <BR> 1b) jar, pitcher (earthen) <BR> 2) harp, lute, guitar, musical instrument"
+            },
+            "translit": "nā·ḇel;",
+            "native": "נָ֑בֶל",
+            "eng": "the lute",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5921",
+                "metadata": "Strong's Hebrew 5921: prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although"
+            },
+            "translit": "‘ă·lê",
+            "native": "עֲלֵ֖י",
+            "eng": "with",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H1902",
+                "metadata": "Strong's Hebrew 1902: 1) meditation, resounding music, musing <BR> 1a) resounding music <BR> 1b) meditation, plotting"
+            },
+            "translit": "hig·gā·yō·wn",
+            "native": "הִגָּי֣וֹן",
+            "eng": "harmonious sound",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H3658",
+                "metadata": "Strong's Hebrew 3658: 1) lyre, harp"
+            },
+            "translit": "bə·ḵin·nō·wr.",
+            "native": "בְּכִנּֽוֹר׃",
+            "punct": ".",
+            "eng": "On the harp",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֤י",
+            "eng": "For",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H8055",
+                "metadata": "Strong's Hebrew 8055: 1) to rejoice, be glad <BR> 1a) (Qal) <BR> 1a1) to rejoice <BR> 1a2) to rejoice (arrogantly), exult (at) <BR> 1a3) to rejoice (religiously) <BR> 1b) (Piel) to cause to rejoice, gladden, make glad <BR> 1c) (Hiphil) to cause to rejoice, gladden, make glad"
+            },
+            "translit": "śim·maḥ·ta·nî",
+            "native": "שִׂמַּחְתַּ֣נִי",
+            "eng": "You have made me glad",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Piel",
+                        "Perfect",
+                        "second person masculine singular"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh",
+            "native": "יְהוָ֣ה",
+            "eng": "Yahweh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H6467",
+                "metadata": "Strong's Hebrew 6467: 1) work, deed, doing <BR> 1a) deed, thing done <BR> 1b) work, thing made <BR> 1c) wages of work <BR> 1d) acquisition (of treasure)"
+            },
+            "translit": "bə·p̄ā·‘o·le·ḵā;",
+            "native": "בְּפָעֳלֶ֑ךָ",
+            "eng": "through Your work",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H4639",
+                "metadata": "Strong's Hebrew 4639: 1) deed, work <BR> 1a) deed, thing done, act <BR> 1b) work, labour <BR> 1c) business, pursuit <BR> 1d) undertaking, enterprise <BR> 1e) achievement <BR> 1f) deeds, works (of deliverance and judgment) <BR> 1g) work, thing made <BR> 1h) work (of God) <BR> 1i) product"
+            },
+            "translit": "bə·ma·‘ă·śê",
+            "native": "בְּֽמַעֲשֵׂ֖י",
+            "eng": "in the works",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3027",
+                "metadata": "Strong's Hebrew 3027: 1) hand <BR> 1a) hand (of man)<BR> 1b) strength, power (fig.) <BR> 1c) side (of land), part, portion (metaph.) (fig.) <BR> 1d) (various special, technical senses) <BR> 1d1) sign, monument <BR> 1d2) part, fractional part, share <BR> 1d3) time, repetition <BR> 1d4) axle-trees, axle <BR> 1d5) stays, support (for laver) <BR> 1d6) tenons (in tabernacle) <BR> 1d7) a phallus, a hand (meaning unsure) <BR> 1d8) wrists"
+            },
+            "translit": "yā·ḏe·ḵā",
+            "native": "יָדֶ֣יךָ",
+            "eng": "of Your hands",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "fdc"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H7442",
+                "metadata": "Strong's Hebrew 7442: 1) to overcome <BR> 1a) (Hithpolel) to be overcome <BR> 2) to cry out, shout for joy, give a ringing cry <BR> 2a) (Qal) <BR> 2a1) to give a ringing cry (in joy, exaltation, distress) <BR> 2a2) to cry aloud (in summons, exhortation of wisdom) <BR> 2b) (Piel) to give a ringing cry (in joy, exultation, praise <BR> 2c) (Pual) ringing cry, singing out (passive) <BR> 2d) (Hiphil) to cause to ring or sing out (for joy) <BR> 2e) (Hithpolel) rejoicing (participle)"
+            },
+            "translit": "’ă·ran·nên.",
+            "native": "אֲרַנֵּֽן׃",
+            "punct": ".",
+            "eng": "I will triumph",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Piel",
+                        "Imperfect",
+                        "first person common singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "strongs": {
+                "data": "H4100",
+                "metadata": "Strong's Hebrew 4100: interr pron<BR> 1) what, how, of what kind <BR> 1a) (interrogative) <BR> 1a1) what? <BR> 1a2) of what kind <BR> 1a3) what? (rhetorical) <BR> 1a4) whatsoever, whatever, what <BR> 1b) (adverb) <BR> 1b1) how, how now <BR> 1b2) why <BR> 1b3) how! (exclamation) <BR> 1c) (with prep) <BR> 1c1) wherein?, whereby?, wherewith?, by what means? <BR> 1c2) because of what? <BR> 1c3) the like of what? <BR> 1c3a) how much?, how many?, how often? <BR> 1c3b) for how long? <BR> 1c4) for what reason?, why?, to what purpose? <BR> 1c5) until when?, how long?, upon what?, wherefore? <BR> indef pron <BR> 2) anything, aught, what may"
+            },
+            "translit": "mah-",
+            "native": "מַה־",
+            "eng": "How",
+            "grammar": [
+                {
+                    "pos": "interrogative"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H1431",
+                "metadata": "Strong's Hebrew 1431: 1) to grow, become great or important, promote, make powerful, praise, magnify, do great things <BR> 1a) (Qal) <BR> 1a1) to grow up <BR> 1a2) to become great <BR> 1a3) to be magnified <BR> 1b) (Piel) <BR> 1b1) to cause to grow <BR> 1b2) to make great, powerful <BR> 1b3) to magnify <BR> 1c) (Pual) to be brought up <BR> 1d) (Hiphil) <BR> 1d1) to make great <BR> 1d2) to magnify <BR> 1d3) to do great things <BR> 1e) (Hithpael) to magnify oneself"
+            },
+            "translit": "gā·ḏə·lū",
+            "native": "גָּדְל֣וּ",
+            "eng": "great are",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Perfect",
+                        "third person common plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H4639",
+                "metadata": "Strong's Hebrew 4639: 1) deed, work <BR> 1a) deed, thing done, act <BR> 1b) work, labour <BR> 1c) business, pursuit <BR> 1d) undertaking, enterprise <BR> 1e) achievement <BR> 1f) deeds, works (of deliverance and judgment) <BR> 1g) work, thing made <BR> 1h) work (of God) <BR> 1i) product"
+            },
+            "translit": "ma·‘ă·śe·ḵā",
+            "native": "מַעֲשֶׂ֣יךָ",
+            "punct": "!",
+            "eng": "Your works",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh;",
+            "native": "יְהוָ֑ה",
+            "eng": "Yahweh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3966",
+                "metadata": "Strong's Hebrew 3966: adv <BR> 1) exceedingly, much <BR> subst <BR> 2) might, force, abundance <BR> n m <BR> 3) muchness, force, abundance, exceedingly <BR> 3a) force, might <BR> 3b) exceedingly, greatly, very (idioms showing magnitude or degree) <BR> 3b1) exceedingly <BR> 3b2) up to abundance, to a great degree, exceedingly <BR> 3b3) with muchness, muchness"
+            },
+            "translit": "mə·’ōḏ,",
+            "native": "מְ֝אֹ֗ד",
+            "eng": "very",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H6009",
+                "metadata": "Strong's Hebrew 6009: 1) to be deep, be profound, make deep <BR> 1a) (Qal) to be deep <BR> 1b) (Hiphil) to make deep, make profound"
+            },
+            "translit": "‘ā·mə·qū",
+            "native": "עָמְק֥וּ",
+            "eng": "are deep",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Perfect",
+                        "third person common plural"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H4284",
+                "metadata": "Strong's Hebrew 4284: 1) thought, device <BR> 1a) thought <BR> 1b) device, plan, purpose <BR> 1c) invention"
+            },
+            "translit": "maḥ·šə·ḇō·ṯe·ḵā.",
+            "native": "מַחְשְׁבֹתֶֽיךָ׃",
+            "punct": ".",
+            "eng": "Your thoughts",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine plural construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "strongs": {
+                "data": "H376",
+                "metadata": "Strong's Hebrew 376: 1) man <BR> 1a) man, male (in contrast to woman, female) <BR> 1b) husband <BR> 1c) human being, person (in contrast to God) <BR> 1d) servant <BR> 1e) mankind <BR> 1f) champion <BR> 1g) great man <BR> 2) whosoever <BR> 3) each (adjective)"
+            },
+            "translit": "’îš-",
+            "native": "אִֽישׁ־",
+            "eng": "A man",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H1198",
+                "metadata": "Strong's Hebrew 1198: 1) brutishness, stupidity, brutish (person)"
+            },
+            "translit": "ba·‘ar",
+            "native": "בַּ֭עַר",
+            "eng": "stupid",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3808",
+                "metadata": "Strong's Hebrew 3808: 1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)"
+            },
+            "translit": "lō",
+            "native": "לֹ֣א",
+            "eng": "not",
+            "grammar": [
+                {
+                    "pos": "adverb",
+                    "attributes": [
+                        "Negative particle"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3045",
+                "metadata": "Strong's Hebrew 3045: 1) to know <BR> 1a) (Qal) <BR> 1a1) to know <BR> 1a1a) to know, learn to know <BR> 1a1b) to perceive <BR> 1a1c) to perceive and see, find out and discern <BR> 1a1d) to discriminate, distinguish <BR> 1a1e) to know by experience <BR> 1a1f) to recognise, admit, acknowledge, confess <BR> 1a1g) to consider <BR> 1a2) to know, be acquainted with <BR> 1a3) to know (a person carnally) <BR> 1a4) to know how, be skilful in <BR> 1a5) to have knowledge, be wise <BR> 1b) (Niphal) <BR> 1b1) to be made known, be or become known, be revealed <BR> 1b2) to make oneself known <BR> 1b3) to be perceived <BR> 1b4) to be instructed <BR> 1c) (Piel) to cause to know <BR> 1d) (Poal) to cause to know <BR> 1e) (Pual) <BR> 1e1) to be known <BR> 1e2) known, one known, acquaintance (participle) <BR> 1f) (Hiphil) to make known, declare <BR> 1g) (Hophal) to be made known <BR> 1h) (Hithpael) to make oneself known, reveal oneself"
+            },
+            "translit": "yê·ḏā‘;",
+            "native": "יֵדָ֑ע",
+            "eng": "does know",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3684",
+                "metadata": "Strong's Hebrew 3684: 1) fool, stupid fellow, dullard, simpleton, arrogant one"
+            },
+            "translit": "ū·ḵə·sîl,",
+            "native": "וּ֝כְסִ֗יל",
+            "eng": "and a fool",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3808",
+                "metadata": "Strong's Hebrew 3808: 1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)"
+            },
+            "translit": "lō-",
+            "native": "לֹא־",
+            "eng": "nor",
+            "grammar": [
+                {
+                    "pos": "adverb",
+                    "attributes": [
+                        "Negative particle"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H995",
+                "metadata": "Strong's Hebrew 995: 1) to discern, understand, consider <BR> 1a) (Qal) <BR> 1a1) to perceive, discern <BR> 1a2) to understand, know (with the mind) <BR> 1a3) to observe, mark, give heed to, distinguish, consider <BR> 1a4) to have discernment, insight, understanding <BR> 1b) (Niphal) to be discerning, intelligent, discreet, have understanding <BR> 1c) (Hiphil) <BR> 1c1) to understand <BR> 1c2) to cause to understand, give understanding, teach <BR> 1d) (Hithpolel) to show oneself discerning or attentive, consider diligently <BR> 1e) (Polel) to teach, instruct <BR> 2) (TWOT) prudent, regard"
+            },
+            "translit": "yā·ḇîn",
+            "native": "יָבִ֥ין",
+            "eng": "does understand",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H853",
+                "metadata": "Strong's Hebrew 853: 1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative"
+            },
+            "translit": "’eṯ-",
+            "native": "אֶת־",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "direct object marker"
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "H2063",
+                "metadata": "Strong's Hebrew 2063: 1) this, this one, here, which, this...that, the one...the other, such <BR> 1a) (alone) <BR> 1a1) this one <BR> 1a2) this...that, the one...the other, another <BR> 1b) (appos to subst) <BR> 1b1) this <BR> 1c) (as predicate) <BR> 1c1) this, such <BR> 1d) (enclitically) <BR> 1d1) then <BR> 1d2) who, whom <BR> 1d3) how now, what now <BR> 1d4) what now <BR> 1d5) wherefore now <BR> 1d6) behold here <BR> 1d7) just now <BR> 1d8) now, now already <BR> 1e) (poetry) <BR> 1e1) wherein, which, those who <BR> 1f) (with prefixes) <BR> 1f1) in this (place) here, then <BR> 1f2) on these conditions, herewith, thus provided, by, through this, for this cause, in this matter <BR> 1f3) thus and thus <BR> 1f4) as follows, things such as these, accordingly, to that effect, in like manner, thus and thus <BR> 1f5) from here, hence, on one side...on the other side <BR> 1f6) on this account <BR> 1f7) in spite of this, which, whence, how"
+            },
+            "translit": "zōṯ.",
+            "native": "זֹֽאת׃",
+            "punct": ".",
+            "eng": "this",
+            "grammar": [
+                {
+                    "pos": "pronoun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "strongs": {
+                "data": "H6524",
+                "metadata": "Strong's Hebrew 6524: 1) to bud, sprout, shoot, bloom <BR> 1a) (Qal) to bud, sprout, send out shoots, blossom <BR> 1b) (Hiphil) <BR> 1b1) to cause to bud or sprout <BR> 1b2) to show buds or sprouts <BR> 2) (Qal) to break out (of leprosy) <BR> 3) (Qal) to fly"
+            },
+            "translit": "bip̄·rō·aḥ",
+            "native": "בִּפְרֹ֤חַ",
+            "eng": "When spring up",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Infinitive construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H7563",
+                "metadata": "Strong's Hebrew 7563: 1) wicked, criminal <BR> 1a) guilty one, one guilty of crime (subst) <BR> 1b) wicked (hostile to God) <BR> 1c) wicked, guilty of sin (against God or man)"
+            },
+            "translit": "rə·šā·‘îm",
+            "native": "רְשָׁעִ֨ים ׀",
+            "eng": "the wicked",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3644",
+                "metadata": "Strong's Hebrew 3644: adv <BR> 1) like, as, the like of which <BR> conj <BR> 2) when, according as, as it were"
+            },
+            "translit": "kə·mōw",
+            "native": "כְּמ֥וֹ",
+            "eng": "like",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H6212",
+                "metadata": "Strong's Hebrew 6212: 1) herb, herbage, grass, green plants"
+            },
+            "translit": "‘ê·śeḇ,",
+            "native": "עֵ֗שֶׂב",
+            "eng": "grass",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H6692",
+                "metadata": "Strong's Hebrew 6692: 1) to blossom, shine, sparkle <BR> 1a) (Qal) <BR> 1a1) to flourish <BR> 1a2) to shine, gleam <BR> 1b) (Hiphil) to blossom, put forth blossoms, produce blossoms <BR> 2) (Hiphil) to gaze, peep, glance, make the eyes sparkle"
+            },
+            "translit": "way·yā·ṣî·ṣū",
+            "native": "וַ֭יָּצִיצוּ",
+            "eng": "and when flourish",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Consecutive imperfect",
+                        "third person masculine plural"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3605",
+                "metadata": "Strong's Hebrew 3605: 1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything"
+            },
+            "translit": "kāl-",
+            "native": "כָּל־",
+            "eng": "all",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H6466",
+                "metadata": "Strong's Hebrew 6466: 1) to do, make <BR> 1a) (Qal) <BR> 1a1) to do <BR> 1a2) to make"
+            },
+            "translit": "pō·‘ă·lê",
+            "native": "פֹּ֣עֲלֵי",
+            "eng": "the workers",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine plural construct"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H205",
+                "metadata": "Strong's Hebrew 205: 1) trouble, wickedness, sorrow <BR> 1a) trouble, sorrow <BR> 1b) idolatry <BR> 1c) trouble of iniquity, wickedness"
+            },
+            "translit": "’ā·wen;",
+            "native": "אָ֑וֶן",
+            "eng": "of iniquity",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "H8045",
+                "metadata": "Strong's Hebrew 8045: 1) to destroy, exterminate, be destroyed, be exterminated <BR> 1a) (Niphal) <BR> 1a1) to be annihilated, be exterminated <BR> 1a2) to be destroyed, be devastated <BR> 1b) (Hiphil) <BR> 1b1) to annihilate, exterminate <BR> 1b2) to destroy"
+            },
+            "translit": "lə·hiš·šā·mə·ḏām",
+            "native": "לְהִשָּֽׁמְדָ֥ם",
+            "eng": "[it is] that they may be destroyed",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Nifal",
+                        "Infinitive construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine plural"
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "H5703",
+                "metadata": "Strong's Hebrew 5703: 1) perpetuity, for ever, continuing future <BR> 1a) ancient (of past time) <BR> 1b) for ever (of future time) <BR> 1b1) of continuous existence <BR> 1c) for ever (of God's existence)"
+            },
+            "translit": "‘ă·ḏê-",
+            "native": "עֲדֵי־",
+            "eng": "forever",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "H5704",
+                "metadata": "Strong's Hebrew 5704: prep<BR> 1) as far as, even to, until, up to, while, as far as <BR> 1a) of space <BR> 1a1) as far as, up to, even to <BR> 1b) in combination <BR> 1b1) from...as far as, both...and (with 'min' -from) <BR> 1c) of time <BR> 1c1) even to, until, unto, till, during, end <BR> 1d) of degree <BR> 1d1) even to, to the degree of, even like <BR> conj <BR> 2) until, while, to the point that, so that even"
+            },
+            "translit": "‘aḏ.",
+            "native": "עַֽד׃",
+            "punct": ".",
+            "eng": "forever",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "strongs": {
+                "data": "H859",
+                "metadata": "Strong's Hebrew 859: 1) you (second pers. sing. masc.)"
+            },
+            "translit": "wə·’at·tāh",
+            "native": "וְאַתָּ֥ה",
+            "eng": "But You [are]",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "pronoun",
+                    "attributes": [
+                        "second person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4791",
+                "metadata": "Strong's Hebrew 4791: 1) height <BR> 1a) height, elevation, elevated place <BR> 1a1) in a high place (adv) <BR> 1b) height <BR> 1c) proudly (adv) <BR> 1d) of nobles (fig.)"
+            },
+            "translit": "mā·rō·wm,",
+            "native": "מָר֗וֹם",
+            "eng": "on high",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·lām",
+            "native": "לְעֹלָ֥ם",
+            "punct": ".",
+            "eng": "forevermore",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh.",
+            "native": "יְהוָֽה׃",
+            "eng": "Yahweh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֤י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H2009",
+                "metadata": "Strong's Hebrew 2009: 1) behold, lo, see, if"
+            },
+            "translit": "hin·nêh",
+            "native": "הִנֵּ֪ה",
+            "eng": "behold",
+            "grammar": [
+                {
+                    "pos": "interjection"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H341",
+                "metadata": "Strong's Hebrew 341: 1) (Qal) enemy <BR> 1a) personal <BR> 1b) national"
+            },
+            "translit": "’ō·yə·ḇe·ḵā",
+            "native": "אֹיְבֶ֡יךָ ׀",
+            "eng": "Your enemies",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh",
+            "native": "יְֽהוָ֗ה",
+            "eng": "Yahweh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî-",
+            "native": "כִּֽי־",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2009",
+                "metadata": "Strong's Hebrew 2009: 1) behold, lo, see, if"
+            },
+            "translit": "hin·nêh",
+            "native": "הִנֵּ֣ה",
+            "eng": "behold",
+            "grammar": [
+                {
+                    "pos": "interjection"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H341",
+                "metadata": "Strong's Hebrew 341: 1) (Qal) enemy <BR> 1a) personal <BR> 1b) national"
+            },
+            "translit": "’ō·yə·ḇe·ḵā",
+            "native": "אֹיְבֶ֣יךָ",
+            "eng": "Your enemies",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "second person masculine singular"
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H6",
+                "metadata": "Strong's Hebrew 6: 1) perish, vanish, go astray, be destroyed <BR> 1a) (Qal) <BR> 1a1) perish, die, be exterminated <BR> 1a2) perish, vanish (fig.) <BR> 1a3) be lost, strayed <BR> 1b) (Piel) <BR> 1b1) to destroy, kill, cause to perish, to give up (as lost), exterminate <BR> 1b2) to blot out, do away with, cause to vanish, (fig.) <BR> 1b3) cause to stray, lose <BR> 1c) (Hiphil) <BR> 1c1) to destroy, put to death <BR> 1c1a) of divine judgment <BR> 1c2) object name of kings (fig.)"
+            },
+            "translit": "yō·ḇê·ḏū;",
+            "native": "יֹאבֵ֑דוּ",
+            "eng": "shall perish",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine plural"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": {
+                "data": "H6504",
+                "metadata": "Strong's Hebrew 6504: 1) to separate, divide <BR> 1a) (Qal) to divide <BR> 1b) (Niphal) <BR> 1b1) to divide, separate <BR> 1b2) to be divided, be separated <BR> 1c) (Piel) to be separated <BR> 1d) (Pual) to be divided <BR> 1e) (Hiphil) <BR> 1e1) to divide, separate <BR> 1e2) to make a division, make a separation <BR> 1f) (Hithpael) to be divided, be separated, get separated"
+            },
+            "translit": "yiṯ·pā·rə·ḏū,",
+            "native": "יִ֝תְפָּרְד֗וּ",
+            "punct": ".",
+            "eng": "shall be scattered",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hitpael",
+                        "Imperfect",
+                        "third person masculine plural"
+                    ]
+                }
+            ]
+        },
+        "10": {
+            "strongs": {
+                "data": "H3605",
+                "metadata": "Strong's Hebrew 3605: 1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything"
+            },
+            "translit": "kāl-",
+            "native": "כָּל־",
+            "eng": "All",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "11": {
+            "strongs": {
+                "data": "H6466",
+                "metadata": "Strong's Hebrew 6466: 1) to do, make <BR> 1a) (Qal) <BR> 1a1) to do <BR> 1a2) to make"
+            },
+            "translit": "pō·‘ă·lê",
+            "native": "פֹּ֥עֲלֵי",
+            "eng": "the workers",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine plural construct"
+                    ]
+                }
+            ]
+        },
+        "12": {
+            "strongs": {
+                "data": "H205",
+                "metadata": "Strong's Hebrew 205: 1) trouble, wickedness, sorrow <BR> 1a) trouble, sorrow <BR> 1b) idolatry <BR> 1c) trouble of iniquity, wickedness"
+            },
+            "translit": "’ā·wen.",
+            "native": "אָֽוֶן׃",
+            "punct": ".",
+            "eng": "of iniquity",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "strongs": {
+                "data": "H7311",
+                "metadata": "Strong's Hebrew 7311: 1) to rise, rise up, be high, be lofty, be exalted <BR> 1a) (Qal) <BR> 1a1) to be high, be set on high <BR> 1a2) to be raised, be uplifted, be exalted <BR> 1a3) to be lifted, rise <BR> 1b) (Polel) <BR> 1b1) to raise or rear (children), cause to grow up <BR> 1b2) to lift up, raise, exalt <BR> 1b3) to exalt, extol <BR> 1c) (Polal) to be lifted up <BR> 1d) (Hiphil) <BR> 1d1) to raise, lift, lift up, take up, set up, erect, exalt, set on high <BR> 1d2) to lift up (and take away), remove <BR> 1d3) to lift off and present, contribute, offer, contribute <BR> 1e) (Hophal) to be taken off, be abolished <BR> 1f) (Hithpolel) to exalt oneself, magnify oneself <BR> 2) (Qal) to be rotten, be wormy"
+            },
+            "translit": "wat·tā·rem",
+            "native": "וַתָּ֣רֶם",
+            "eng": "But You have exalted",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Consecutive imperfect",
+                        "second person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H7214",
+                "metadata": "Strong's Hebrew 7214: 1) probably the great aurochs or wild bulls which are now extinct. The exact meaning is not known."
+            },
+            "translit": "kir·’êm",
+            "native": "כִּרְאֵ֣ים",
+            "eng": "like a wild ox",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "k"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H7161",
+                "metadata": "Strong's Hebrew 7161: n f<BR> 1) horn <BR> 1a) horn <BR> 1b) of strength (fig) <BR> 1c) flask (container for oil) <BR> 1d) horn (as musical instrument) <BR> 1e) horn (of horn-like projections on the altar) <BR> 1f) of rays of light <BR> 1g) hill <BR> n pr loc <BR> 2) (BDB) a place conquered by Israel probably in Bashan"
+            },
+            "translit": "qar·nî;",
+            "native": "קַרְנִ֑י",
+            "eng": "my horn",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular construct"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H1101",
+                "metadata": "Strong's Hebrew 1101: 1) to mix, mingle, confuse, confound <BR> 1a) (Qal) <BR> 1a1) to mingle, confuse <BR> 1a2) to mix <BR> 1a3) to give provender, feed (animals) <BR> 1b) (Hithpoel) to mix oneself (among others) <BR> 1c) (Hiphil) to fade away"
+            },
+            "translit": "bal·lō·ṯî,",
+            "native": "בַּ֝לֹּתִ֗י",
+            "eng": "I have been anointed",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Perfect",
+                        "first person common singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H8081",
+                "metadata": "Strong's Hebrew 8081: 1) fat, oil <BR> 1a) fat, fatness <BR> 1b) oil, olive oil <BR> 1b1) as staple, medicament or unguent <BR> 1b2) for anointing <BR> 1c) fat (of fruitful land, valleys) (metaph)"
+            },
+            "translit": "bə·še·men",
+            "native": "בְּשֶׁ֣מֶן",
+            "eng": "with oil",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H7488",
+                "metadata": "Strong's Hebrew 7488: v <BR> 1) (Palel) to be or grow luxuriant or fresh or green <BR> adj <BR> 2) luxuriant, fresh"
+            },
+            "translit": "ra·‘ă·nān.",
+            "native": "רַעֲנָֽן׃",
+            "punct": ".",
+            "eng": "fresh",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "strongs": {
+                "data": "H5027",
+                "metadata": "Strong's Hebrew 5027: 1) to look, regard <BR> 1a) (Piel) to look <BR> 1b) (Hiphil) <BR> 1b1) to look <BR> 1b2) to regard, show regard to, pay attention to, consider <BR> 1b3) to look upon, regard, show regard to"
+            },
+            "translit": "wat·tab·bêṭ",
+            "native": "וַתַּבֵּ֥ט",
+            "eng": "And has seen [my desire]",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Consecutive imperfect",
+                        "third person feminine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H5869",
+                "metadata": "Strong's Hebrew 5869: 1) eye <BR> 1a) eye <BR> 1a1) of physical eye <BR> 1a2) as showing mental qualities <BR> 1a3) of mental and spiritual faculties (fig.) <BR> 2) spring, fountain"
+            },
+            "translit": "‘ê·nî,",
+            "native": "עֵינִ֗י",
+            "eng": "My eye",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "common singular construct"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H7790",
+                "metadata": "Strong's Hebrew 7790: 1) watcher, enemy <BR> 1a) (BDB) meaning dubious"
+            },
+            "translit": "bə·šū·rāy",
+            "native": "בְּשׁ֫וּרָ֥י",
+            "eng": "on my enemies",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H6965",
+                "metadata": "Strong's Hebrew 6965: 1) to rise, arise, stand, rise up, stand up <BR> 1a) (Qal) <BR> 1a1) to arise <BR> 1a2) to arise (hostile sense) <BR> 1a3) to arise, become powerful <BR> 1a4) to arise, come on the scene <BR> 1a5) to stand <BR> 1a5a) to maintain oneself <BR> 1a5b) to be established, be confirmed <BR> 1a5c) to stand, endure <BR> 1a5d) to be fixed <BR> 1a5e) to be valid <BR> 1a5f) to be proven <BR> 1a5g) to be fulfilled <BR> 1a5h) to persist <BR> 1a5i) to be set, be fixed <BR> 1b) (Piel) <BR> 1b1) to fulfil <BR> 1b2) to confirm, ratify, establish, impose <BR> 1c) (Polel) to raise up <BR> 1d) (Hithpael) to raise oneself, rise up <BR> 1e) (Hiphil) <BR> 1e1) to cause to arise, raise <BR> 1e2) to raise, set up, erect, build <BR> 1e3) to raise up, bring on the scene <BR> 1e4) to raise up, rouse, stir up, investigate <BR> 1e5) to raise up, constitute <BR> 1e6) to cause to stand, set, station, establish <BR> 1e7) to make binding <BR> 1e8) to carry out, give effect to <BR> 1f) (Hophal) to be raised up"
+            },
+            "translit": "baq·qā·mîm",
+            "native": "בַּקָּמִ֖ים",
+            "eng": "who rise up",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5921",
+                "metadata": "Strong's Hebrew 5921: prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although"
+            },
+            "translit": "‘ā·lay",
+            "native": "עָלַ֥י",
+            "eng": "against me",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H7489",
+                "metadata": "Strong's Hebrew 7489: 1) to be bad, be evil <BR> 1a)(Qal) <BR> 1a1) to be displeasing <BR> 1a2) to be sad <BR> 1a3) to be injurious, be evil <BR> 1a4) to be wicked, be evil (ethically) <BR> 1b) (Hiphil) <BR> 1b1) to do an injury or hurt <BR> 1b2) to do evil or wickedly <BR> 1b3) mischief (participle) <BR> 2) to break, shatter <BR> 2a) (Qal) <BR> 2a1) to break <BR> 2a2) broken (participle) <BR> 2a3) to be broken <BR> 2b) (Hithpolel) to be broken, be broken in pieces, be broken asunder"
+            },
+            "translit": "mə·rê·‘îm,",
+            "native": "מְרֵעִ֗ים",
+            "eng": "on the wicked",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Participle",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H8085",
+                "metadata": "Strong's Hebrew 8085: v <BR> 1) to hear, listen to, obey <BR> 1a) (Qal) <BR> 1a1) to hear (perceive by ear) <BR> 1a2) to hear of or concerning <BR> 1a3) to hear (have power to hear) <BR> 1a4) to hear with attention or interest, listen to <BR> 1a5) to understand (language) <BR> 1a6) to hear (of judicial cases) <BR> 1a7) to listen, give heed <BR> 1a7a) to consent, agree <BR> 1a7b) to grant request <BR> 1a8) to listen to, yield to <BR> 1a9) to obey, be obedient <BR> 1b) (Niphal) <BR> 1b1) to be heard (of voice or sound) <BR> 1b2) to be heard of <BR> 1b3) to be regarded, be obeyed <BR> 1c) (Piel) to cause to hear, call to hear, summon <BR> 1d) (Hiphil) <BR> 1d1) to cause to hear, tell, proclaim, utter a sound <BR> 1d2) to sound aloud (musical term) <BR> 1d3) to make proclamation, summon <BR> 1d4) to cause to be heard <BR> n m <BR> 2) sound"
+            },
+            "translit": "tiš·ma‘·nāh",
+            "native": "תִּשְׁמַ֥עְנָה",
+            "eng": "hear [my desire]",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person feminine plural"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H241",
+                "metadata": "Strong's Hebrew 241: 1) ear, as part of the body <BR> 2) ear, as organ of hearing <BR> 3) (subjective) to uncover the ear to reveal; the receiver of divine revelation"
+            },
+            "translit": "’ā·zə·nāy.",
+            "native": "אָזְנָֽי׃",
+            "punct": ".",
+            "eng": "My ears",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "fdc"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "strongs": {
+                "data": "H6662",
+                "metadata": "Strong's Hebrew 6662: 1) just, lawful, righteous <BR> 1a) just, righteous (in government) <BR> 1b) just, right (in one's cause)<BR> 1c) just, righteous (in conduct and character) <BR> 1d) righteous (as justified and vindicated by God) <BR> 1e) right, correct, lawful"
+            },
+            "translit": "ṣad·dîq",
+            "native": "צַ֭דִּיק",
+            "eng": "The righteous",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H8558",
+                "metadata": "Strong's Hebrew 8558: 1) palm tree, date palm"
+            },
+            "translit": "kat·tā·mār",
+            "native": "כַּתָּמָ֣ר",
+            "eng": "like a palm tree",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "k"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H6524",
+                "metadata": "Strong's Hebrew 6524: 1) to bud, sprout, shoot, bloom <BR> 1a) (Qal) to bud, sprout, send out shoots, blossom <BR> 1b) (Hiphil) <BR> 1b1) to cause to bud or sprout <BR> 1b2) to show buds or sprouts <BR> 2) (Qal) to break out (of leprosy) <BR> 3) (Qal) to fly"
+            },
+            "translit": "yip̄·rāḥ;",
+            "native": "יִפְרָ֑ח",
+            "eng": "shall flourish",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H730",
+                "metadata": "Strong's Hebrew 730: 1) cedar <BR> 1a) cedar tree <BR> 1b) cedar timber, cedar wood (in building) <BR> 1c) cedar wood (in purifications)"
+            },
+            "translit": "kə·’e·rez",
+            "native": "כְּאֶ֖רֶז",
+            "eng": "like a cedar",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "k"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3844",
+                "metadata": " whiteness<BR> 1) a wooded mountain range on the northern border of Israel"
+            },
+            "translit": "bal·lə·ḇā·nō·wn",
+            "native": "בַּלְּבָנ֣וֹן",
+            "eng": "in Lebanon",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H7685",
+                "metadata": "Strong's Hebrew 7685: 1) to grow, increase <BR> 1a) (Qal) to grow (great) <BR> 1b) (Hiphil) to increase"
+            },
+            "translit": "yiś·geh.",
+            "native": "יִשְׂגֶּֽה׃",
+            "punct": ".",
+            "eng": "He shall grow",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "strongs": {
+                "data": "H8362",
+                "metadata": "Strong's Hebrew 8362: 1) (Qal) to plant, transplant"
+            },
+            "translit": "ṯū·lîm",
+            "native": "שְׁ֭תוּלִים",
+            "eng": "Those who are planted",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "QalPassParticiple",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H1004",
+                "metadata": "Strong's Hebrew 1004: nm <BR> 1) house <BR> 1a) house, dwelling habitation <BR> 1b) shelter or abode of animals <BR> 1c) human bodies (fig.) <BR> 1d) of Sheol <BR> 1e) of abode of light and darkness <BR> 1f) of land of Ephraim <BR> 2) place <BR> 3) receptacle <BR> 4) home, house as containing a family <BR> 5) household, family <BR> 5a) those belonging to the same household <BR> 5b) family of descendants, descendants as organized body <BR> 6) household affairs <BR> 7) inwards (metaph.) <BR> 8) (TWOT) temple <BR> adv <BR> 9) on the inside <BR> prep <BR> 10) within"
+            },
+            "translit": "bə·ḇêṯ",
+            "native": "בְּבֵ֣ית",
+            "eng": "in the house",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh;",
+            "native": "יְהוָ֑ה",
+            "eng": "of Yahweh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H2691",
+                "metadata": "Strong's Hebrew 2691: 1) court, enclosure <BR> 1a) enclosures <BR> 1b) court <BR> 2) settled abode, settlement, village, town"
+            },
+            "translit": "bə·ḥaṣ·rō·wṯ",
+            "native": "בְּחַצְר֖וֹת",
+            "eng": "in the courts",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "common plural construct"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H430",
+                "metadata": "Strong's Hebrew 430: 1) (plural) <BR> 1a) rulers, judges <BR> 1b) divine ones <BR> 1c) angels <BR> 1d) gods <BR> 2) (plural intensive-singular meaning) <BR> 2a) god, goddess <BR> 2b) godlike one <BR> 2c) works or special possessions of God <BR> 2d) the (true) God <BR> 2e) God"
+            },
+            "translit": "’ĕ·lō·hê·nū",
+            "native": "אֱלֹהֵ֣ינוּ",
+            "eng": "of our God",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "first person common plural"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H6524",
+                "metadata": "Strong's Hebrew 6524: 1) to bud, sprout, shoot, bloom <BR> 1a) (Qal) to bud, sprout, send out shoots, blossom <BR> 1b) (Hiphil) <BR> 1b1) to cause to bud or sprout <BR> 1b2) to show buds or sprouts <BR> 2) (Qal) to break out (of leprosy) <BR> 3) (Qal) to fly"
+            },
+            "translit": "yap̄·rî·ḥū.",
+            "native": "יַפְרִֽיחוּ׃",
+            "punct": ".",
+            "eng": "shall flourish",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Imperfect",
+                        "third person masculine plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "strongs": {
+                "data": "H5750",
+                "metadata": "Strong's Hebrew 5750: subst<BR> 1) a going round, continuance <BR> adv <BR> 2) still, yet, again, besides <BR> 2a) still, yet (of continuance or persistence) <BR> 2b) still, yet, more (of addition or repetition) <BR> 2c) again <BR> 2d) still, moreover, besides"
+            },
+            "translit": "‘ō·wḏ",
+            "native": "ע֭וֹד",
+            "eng": "Still",
+            "grammar": [
+                {
+                    "pos": "adverb"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H5107",
+                "metadata": "Strong's Hebrew 5107: 1) to bear fruit <BR> 1a) (Qal) to bear fruit <BR> 1b) (Pilel) to make to flourish (fig.)"
+            },
+            "translit": "yə·nū·ḇūn",
+            "native": "יְנוּב֣וּן",
+            "eng": "they shall bear fruit",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine plural"
+                    ]
+                },
+                {
+                    "pos": "paragogic nun"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H7872",
+                "metadata": "Strong's Hebrew 7872: 1) age, gray hair, hoary head, old age <BR> 1a) gray hair, hoary head <BR> 1b) old age"
+            },
+            "translit": "bə·śê·ḇāh;",
+            "native": "בְּשֵׂיבָ֑ה",
+            "eng": "in old age",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H1879",
+                "metadata": "Strong's Hebrew 1879: adj <BR> 1) fat <BR> subst <BR> 2) vigorous, stalwart ones"
+            },
+            "translit": "də·šê·nîm",
+            "native": "דְּשֵׁנִ֖ים",
+            "eng": "fat",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H7488",
+                "metadata": "Strong's Hebrew 7488: v <BR> 1) (Palel) to be or grow luxuriant or fresh or green <BR> adj <BR> 2) luxuriant, fresh"
+            },
+            "translit": "wə·ra·‘ă·nan·nîm",
+            "native": "וְרַֽעֲנַנִּ֣ים",
+            "eng": "and flourishing",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H1961",
+                "metadata": "Strong's Hebrew 1961: 1) to be, become, come to pass, exist, happen, fall out <BR> 1a) (Qal) <BR> 1a1) ----- <BR> 1a1a) to happen, fall out, occur, take place, come about, come to pass <BR> 1a1b) to come about, come to pass <BR> 1a2) to come into being, become <BR> 1a2a) to arise, appear, come <BR> 1a2b) to become <BR> 1a2b1) to become <BR> 1a2b2) to become like <BR> 1a2b3) to be instituted, be established <BR> 1a3) to be <BR> 1a3a) to exist, be in existence <BR> 1a3b) to abide, remain, continue (with word of place or time) <BR> 1a3c) to stand, lie, be in, be at, be situated (with word of locality) <BR> 1a3d) to accompany, be with <BR> 1b) (Niphal) <BR> 1b1) to occur, come to pass, be done, be brought about <BR> 1b2) to be done, be finished, be gone"
+            },
+            "translit": "yih·yū.",
+            "native": "יִהְיֽוּ׃",
+            "punct": ".",
+            "eng": "they shall be",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Imperfect",
+                        "third person masculine plural"
+                    ]
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "strongs": {
+                "data": "H5046",
+                "metadata": "Strong's Hebrew 5046: 1) to be conspicuous, tell, make known <BR> 1a) (Hiphil) to tell, declare <BR> 1a1) to tell, announce, report <BR> 1a2) to declare, make known, expound <BR> 1a3) to inform of <BR> 1a4) to publish, declare, proclaim <BR> 1a5) to avow, acknowledge, confess <BR> 1a5a) messenger (participle) <BR> 1b) (Hophal) to be told, be announced, be reported"
+            },
+            "translit": "lə·hag·gîḏ",
+            "native": "לְ֭הַגִּיד",
+            "eng": "To declare",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Infinitive construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî-",
+            "native": "כִּֽי־",
+            "eng": "that",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3477",
+                "metadata": "Strong's Hebrew 3477: 1) straight, upright, correct, right <BR> 1a) straight, level <BR> 1b) right, pleasing, correct <BR> 1c) straightforward, just, upright, fitting, proper <BR> 1d) uprightness, righteous, upright <BR> 1e) that which is upright (subst)"
+            },
+            "translit": "yā·šār",
+            "native": "יָשָׁ֣ר",
+            "eng": "upright",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh;",
+            "native": "יְהוָ֑ה",
+            "eng": "Yahweh [is]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H6697",
+                "metadata": "Strong's Hebrew 6697: 1) rock, cliff <BR> 1a) rocky wall, cliff <BR> 1b) rock (with flat surface) <BR> 1c) block of stone, boulder <BR> 1d) rock (specific) <BR> 1e) rock (of God) <BR> 1f) rock (of heathen gods) n pr dei <BR> 1g) Rock"
+            },
+            "translit": "ṣū·rî,",
+            "native": "צ֝וּרִ֗י",
+            "eng": "[He is] my rock",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "first person common singular"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3808",
+                "metadata": "Strong's Hebrew 3808: 1) not, no <BR> 1a) not (with verb-absolute prohibition) <BR> 1b) not (with modifier-negation) <BR> 1c) nothing (subst) <BR> 1d) without (with particle) <BR> 1e) before (of time)"
+            },
+            "translit": "wə·lō-",
+            "native": "וְֽלֹא־",
+            "eng": "and [there is] no",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "adverb",
+                    "attributes": [
+                        "Negative particle"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": "H",
+            "translit": "‘ō·lā·ṯāh",
+            "native": "עלתה",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H5766",
+                "metadata": "Strong's Hebrew 5766: 1) injustice, unrighteousness, wrong <BR> 1a) violent deeds of injustice <BR> 1b) injustice (of speech) <BR> 1c) injustice (generally)"
+            },
+            "translit": "‘aw·lā·ṯāh",
+            "native": "[עַוְלָ֥תָה]",
+            "eng": "unrighteousness",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "9": {
+            "strongs": "H",
+            "translit": "bōw.",
+            "native": "(בּֽוֹ׃)",
+            "punct": ".",
+            "eng": "in Him",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    }
+}

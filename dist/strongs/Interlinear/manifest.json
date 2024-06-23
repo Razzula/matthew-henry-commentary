@@ -1,0 +1,7 @@
+{
+    "title": "Interlinear",
+    "short": "Interlinear",
+    "license": "Interlinear text sources include Westminster Leningrad Codex (Hebrew) and Nestle 1904, SBLGNT, NA27, Westcott and Hort, Byzantine Majority Text, and Scrivener’s Textus Receptus (Greek).",
+    "description": "The interlinear text sources utilise the Westminster Leningrad Codex for Hebrew text and various Greek texts including the Nestle 1904, SBLGNT, NA27, Westcott and Hort, Byzantine Majority Text, and Scrivener’s Textus Receptus. The base text and orthography follow the Nestle 1904 edition, with paragraph formatting adapted from Westcott and Hort. Variants are marked from the sources in specific notations, with major and minor variants indicated. Variants in compound words and word order differences are also noted.",
+    "children": "usfm-chapter"
+}

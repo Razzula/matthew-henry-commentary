@@ -19,6 +19,9 @@ startTime = time.time()
 
 for book in manifest:
 
+    # if (book.get('title') != 'Luke'):
+    #     continue
+
     if (book['usfm'] == 'SNG'):
         bookName = 'songs'
     else:
@@ -54,6 +57,7 @@ for book in manifest:
                     time.sleep(20)
 
             # PARSE
+            response.encoding = 'utf-8'
             soup = BeautifulSoup(response.text, 'html.parser')
 
             # tables
@@ -69,6 +73,8 @@ for book in manifest:
                     cells = table.find_all('span')
                     for cell in cells: # token
 
+                        if (cell.attrs.get('class') is None):
+                            continue # LUK.1
                         for cellClass in cell.attrs.get('class'):
                             # strongs   Strongs number of Hebrew word
                             # pos       Strongs number of Greek word
@@ -98,14 +104,15 @@ for book in manifest:
                             data = cell.text.strip()
                             data = unicodedata.normalize('NFKD', data)
 
+                            if (cellClass == 'punct'):
+                                token['punct'] = data
+                                continue
+
                             # PRIMARY DATA
                             if (cellClass in ['strongs', 'pos', 'eng', 'native', 'translit']): # data we want to process
 
                                 # rename classes
-                                if (cellClass == 'translit'):
-                                    cellClass = 'transliteration'
-
-                                elif (cellClass in ['strongs', 'pos'] and data != '[e]'):
+                                if (cellClass in ['strongs', 'pos'] and data != '[e]'):
                                     # STRONGS NUMBER AND DESCRIPTION
                                     data = f'H{data}' if (cellClass == 'strongs') else f'G{data}'
                                     cellClass = 'strongs'
@@ -211,19 +218,24 @@ for book in manifest:
                         verseData[str(tokenCount)] = token
                         tokenCount += 1
                     else:
-                        pass
+                        if (token):
+                            pass
 
             # handle verseData
             chapterData[verse + 1] = verseData
 
             pass # verse
             # break
+        pass
 
         # output
-        outJSON = json.dumps(chapterData, indent=4)
-        outDir = os.path.join(os.path.dirname(__file__), 'dist', 'bin', 'strongs', f'{book["usfm"]}.{chapter + 1}.json')
+        outJSON = json.dumps(chapterData, indent=4, ensure_ascii=False).encode('utf-8')
+        outDir = os.path.join(os.path.dirname(__file__), 'dist', 'bin', 'strongs', 'Interlinear', f'{book["usfm"]}.{chapter + 1}')
+        if not os.path.exists(os.path.dirname(outDir)):
+            os.makedirs(os.path.dirname(outDir))
         with open(outDir, 'w', encoding='utf-8') as f:
-            f.write(outJSON)
+            f.write(outJSON.decode())
+        pass
 
         # reformat file (condensed)
         # with open(outDir, 'r', encoding='utf-8') as f:

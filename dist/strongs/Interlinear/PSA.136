@@ -1,0 +1,3430 @@
+{
+    "1": {
+        "1": {
+            "strongs": {
+                "data": "H3034",
+                "metadata": "Strong's Hebrew 3034: 1) to throw, shoot, cast <BR> 1a) (Qal) to shoot (arrows) <BR> 1b) (Piel) to cast, cast down, throw down <BR> 1c) (Hiphil) <BR> 1c1) to give thanks, laud, praise <BR> 1c2) to confess, confess (the name of God) <BR> 1d) (Hithpael) <BR> 1d1) to confess (sin) <BR> 1d2) to give thanks"
+            },
+            "translit": "hō·w·ḏū",
+            "native": "הוֹד֣וּ",
+            "eng": "Oh give thanks",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Imperative",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3068",
+                "metadata": " the existing One<BR> 1) the proper name of the one true God <BR> 1a) unpronounced except with the vowel pointings of H0136"
+            },
+            "translit": "Yah·weh",
+            "native": "לַיהוָ֣ה",
+            "eng": "to Yahweh",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî-",
+            "native": "כִּי־",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H2896",
+                "metadata": "Strong's Hebrew 2896: adj <BR> 1) good, pleasant, agreeable <BR> 1a) pleasant, agreeable (to the senses) <BR> 1b) pleasant (to the higher nature) <BR> 1c) good, excellent (of its kind) <BR> 1d) good, rich, valuable in estimation <BR> 1e) good, appropriate, becoming <BR> 1f) better (comparative) <BR> 1g) glad, happy, prosperous (of man's sensuous nature) <BR> 1h) good understanding (of man's intellectual nature) <BR> 1i) good, kind, benign <BR> 1j) good, right (ethical) <BR> n m <BR> 2) a good thing, benefit, welfare <BR> 2a) welfare, prosperity, happiness <BR> 2b) good things (collective) <BR> 2c) good, benefit <BR> 2d) moral good <BR> n f <BR> 3) welfare, benefit, good things <BR> 3a) welfare, prosperity, happiness <BR> 3b) good things (collective) <BR> 3c) bounty"
+            },
+            "translit": "ṭō·wḇ;",
+            "native": "ט֑וֹב",
+            "eng": "[He is] good",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "strongs": {
+                "data": "H3034",
+                "metadata": "Strong's Hebrew 3034: 1) to throw, shoot, cast <BR> 1a) (Qal) to shoot (arrows) <BR> 1b) (Piel) to cast, cast down, throw down <BR> 1c) (Hiphil) <BR> 1c1) to give thanks, laud, praise <BR> 1c2) to confess, confess (the name of God) <BR> 1d) (Hithpael) <BR> 1d1) to confess (sin) <BR> 1d2) to give thanks"
+            },
+            "translit": "hō·w·ḏū",
+            "native": "ה֭וֹדוּ",
+            "eng": "Oh give thanks",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Imperative",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H430",
+                "metadata": "Strong's Hebrew 430: 1) (plural) <BR> 1a) rulers, judges <BR> 1b) divine ones <BR> 1c) angels <BR> 1d) gods <BR> 2) (plural intensive-singular meaning) <BR> 2a) god, goddess <BR> 2b) godlike one <BR> 2c) works or special possessions of God <BR> 2d) the (true) God <BR> 2e) God"
+            },
+            "translit": "lê·lō·hê",
+            "native": "לֵֽאלֹהֵ֣י",
+            "eng": "to the God",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H430",
+                "metadata": "Strong's Hebrew 430: 1) (plural) <BR> 1a) rulers, judges <BR> 1b) divine ones <BR> 1c) angels <BR> 1d) gods <BR> 2) (plural intensive-singular meaning) <BR> 2a) god, goddess <BR> 2b) godlike one <BR> 2c) works or special possessions of God <BR> 2d) the (true) God <BR> 2e) God"
+            },
+            "translit": "hā·’ĕ·lō·hîm;",
+            "native": "הָאֱלֹהִ֑ים",
+            "eng": "of gods",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "strongs": {
+                "data": "H3034",
+                "metadata": "Strong's Hebrew 3034: 1) to throw, shoot, cast <BR> 1a) (Qal) to shoot (arrows) <BR> 1b) (Piel) to cast, cast down, throw down <BR> 1c) (Hiphil) <BR> 1c1) to give thanks, laud, praise <BR> 1c2) to confess, confess (the name of God) <BR> 1d) (Hithpael) <BR> 1d1) to confess (sin) <BR> 1d2) to give thanks"
+            },
+            "translit": "hō·w·ḏū",
+            "native": "ה֭וֹדוּ",
+            "eng": "Oh give thanks",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Imperative",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H113",
+                "metadata": " thy husband, Yahweh) <BR> 1c) my lord, my master <BR> 1c1) reference to men <BR> 1c1a) master <BR> 1c1b) husband <BR> 1c1c) prophet <BR> 1c1d) prince <BR> 1c1e) king <BR> 1c1f) father <BR> 1c1g) Moses <BR> 1c1h) priest <BR> 1c1i) theophanic angel <BR> 1c1j) captain <BR> 1c1k) general recognition of superiority <BR> 1c2) reference to God <BR> 1c2a) my Lord, my Lord and my God <BR> 1c2b) Adonai (parallel with Yahweh)"
+            },
+            "translit": "la·’ă·ḏō·nê",
+            "native": "לַאֲדֹנֵ֣י",
+            "eng": "to the Lord",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H113",
+                "metadata": " thy husband, Yahweh) <BR> 1c) my lord, my master <BR> 1c1) reference to men <BR> 1c1a) master <BR> 1c1b) husband <BR> 1c1c) prophet <BR> 1c1d) prince <BR> 1c1e) king <BR> 1c1f) father <BR> 1c1g) Moses <BR> 1c1h) priest <BR> 1c1i) theophanic angel <BR> 1c1j) captain <BR> 1c1k) general recognition of superiority <BR> 1c2) reference to God <BR> 1c2a) my Lord, my Lord and my God <BR> 1c2b) Adonai (parallel with Yahweh)"
+            },
+            "translit": "hā·’ă·ḏō·nîm;",
+            "native": "הָאֲדֹנִ֑ים",
+            "eng": "of lords",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·lām",
+            "native": "לְעֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "strongs": {
+                "data": "H6213",
+                "metadata": "Strong's Hebrew 6213: 1) to do, fashion, accomplish, make <BR> 1a) (Qal) <BR> 1a1) to do, work, make, produce <BR> 1a1a) to do <BR> 1a1b) to work <BR> 1a1c) to deal (with) <BR> 1a1d) to act, act with effect, effect <BR> 1a2) to make <BR> 1a2a) to make <BR> 1a2b) to produce <BR> 1a2c) to prepare <BR> 1a2d) to make (an offering) <BR> 1a2e) to attend to, put in order <BR> 1a2f) to observe, celebrate <BR> 1a2g) to acquire (property) <BR> 1a2h) to appoint, ordain, institute <BR> 1a2i) to bring about <BR> 1a2j) to use <BR> 1a2k) to spend, pass <BR> 1b) (Niphal) <BR> 1b1) to be done <BR> 1b2) to be made <BR> 1b3) to be produced <BR> 1b4) to be offered <BR> 1b5) to be observed <BR> 1b6) to be used <BR> 1c) (Pual) to be made <BR> 2) (Piel) to press, squeeze"
+            },
+            "translit": "lə·‘ō·śêh",
+            "native": "לְעֹ֘שֵׂ֤ה",
+            "eng": "To Him who does",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H6381",
+                "metadata": "Strong's Hebrew 6381: 1) to be marvellous, be wonderful, be surpassing, be extraordinary, separate by distinguishing action <BR> 1a) (Niphal) <BR> 1a1) to be beyond one's power, be difficult to do <BR> 1a2) to be difficult to understand <BR> 1a3) to be wonderful, be extraordinary <BR> 1a3a) marvellous (participle) <BR> 1b) (Piel) to separate (an offering) <BR> 1c) (Hiphil) <BR> 1c1) to do extraordinary or hard or difficult thing <BR> 1c2) to make wonderful, do wondrously <BR> 1d) (Hithpael) to show oneself wonderful or marvellous"
+            },
+            "translit": "nip̄·lā·’ō·wṯ",
+            "native": "נִפְלָא֣וֹת",
+            "eng": "wonders",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Nifal",
+                        "Participle",
+                        "feminine plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H1419",
+                "metadata": "Strong's Hebrew 1419: adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel"
+            },
+            "translit": "gə·ḏō·lō·wṯ",
+            "native": "גְּדֹל֣וֹת",
+            "eng": "great",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "feminine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H905",
+                "metadata": "Strong's Hebrew 905: 1) alone, by itself, besides, a part, separation, being alone <BR> 1a) separation, alone, by itself <BR> 1a1) only (adv) <BR> 1a2) apart from, besides (prep) <BR> 1b) part <BR> 1c) parts (eg limbs, shoots), bars"
+            },
+            "translit": "lə·ḇad·dōw;",
+            "native": "לְבַדּ֑וֹ",
+            "eng": "alone",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "strongs": {
+                "data": "H6213",
+                "metadata": "Strong's Hebrew 6213: 1) to do, fashion, accomplish, make <BR> 1a) (Qal) <BR> 1a1) to do, work, make, produce <BR> 1a1a) to do <BR> 1a1b) to work <BR> 1a1c) to deal (with) <BR> 1a1d) to act, act with effect, effect <BR> 1a2) to make <BR> 1a2a) to make <BR> 1a2b) to produce <BR> 1a2c) to prepare <BR> 1a2d) to make (an offering) <BR> 1a2e) to attend to, put in order <BR> 1a2f) to observe, celebrate <BR> 1a2g) to acquire (property) <BR> 1a2h) to appoint, ordain, institute <BR> 1a2i) to bring about <BR> 1a2j) to use <BR> 1a2k) to spend, pass <BR> 1b) (Niphal) <BR> 1b1) to be done <BR> 1b2) to be made <BR> 1b3) to be produced <BR> 1b4) to be offered <BR> 1b5) to be observed <BR> 1b6) to be used <BR> 1c) (Pual) to be made <BR> 2) (Piel) to press, squeeze"
+            },
+            "translit": "lə·‘ō·śêh",
+            "native": "לְעֹשֵׂ֣ה",
+            "eng": "To Him who made",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H8064",
+                "metadata": "Strong's Hebrew 8064: 1) heaven, heavens, sky <BR> 1a) visible heavens, sky <BR> 1a1) as abode of the stars <BR> 1a2) as the visible universe, the sky, atmosphere, etc <BR> 1b) Heaven (as the abode of God)"
+            },
+            "translit": "haš·šā·ma·yim",
+            "native": "הַ֭שָּׁמַיִם",
+            "eng": "the heavens",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H8394",
+                "metadata": "Strong's Hebrew 8394: 1) understanding, intelligence <BR> 1a) the act of understanding <BR> 1a1) skill <BR> 1b) the faculty of understanding <BR> 1b1) intelligence, understanding, insight <BR> 1c) the object of knowledge <BR> 1d) teacher (personification)"
+            },
+            "translit": "biṯ·ḇū·nāh;",
+            "native": "בִּתְבוּנָ֑ה",
+            "eng": "by wisdom",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "strongs": {
+                "data": "H7554",
+                "metadata": "Strong's Hebrew 7554: 1) to beat, stamp, beat out, spread out, stretch <BR> 1a) (Qal) <BR> 1a1) to stamp, beat out <BR> 1a2) one who beats out (participle) <BR> 1b) (Piel) to overlay, beat out (for plating) <BR> 1c) (Pual) beaten out (participle) <BR> 1d) (Hiphil) to make a spreading (of clouds)"
+            },
+            "translit": "lə·rō·qa‘",
+            "native": "לְרֹקַ֣ע",
+            "eng": "To Him who laid out",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H776",
+                "metadata": "Strong's Hebrew 776: 1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan"
+            },
+            "translit": "hā·’ā·reṣ",
+            "native": "הָ֭אָרֶץ",
+            "eng": "the earth",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5921",
+                "metadata": "Strong's Hebrew 5921: prep<BR> 1) upon, on the ground of, according to, on account of, on behalf of, concerning, beside, in addition to, together with, beyond, above, over, by, on to, towards, to, against <BR> 1a) upon, on the ground of, on the basis of, on account of, because of, therefore, on behalf of, for the sake of, for, with, in spite of, notwithstanding, concerning, in the matter of, as regards <BR> 1b) above, beyond, over (of excess) <BR> 1c) above, over (of elevation or pre-eminence) <BR> 1d) upon, to, over to, unto, in addition to, together with, with (of addition) <BR> 1e) over (of suspension or extension) <BR> 1f) by, adjoining, next, at, over, around (of contiguity or proximity) <BR> 1g) down upon, upon, on, from, up upon, up to, towards, over towards, to, against (with verbs of motion) <BR> 1h) to (as a dative) <BR> conj <BR> 2) because that, because, notwithstanding, although"
+            },
+            "translit": "‘al-",
+            "native": "עַל־",
+            "eng": "above",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H4325",
+                "metadata": "Strong's Hebrew 4325: 1) water, waters <BR> 1a) water <BR> 1b) water of the feet, urine <BR> 1c) of danger, violence, transitory things, refreshment (fig.)"
+            },
+            "translit": "ham·mā·yim;",
+            "native": "הַמָּ֑יִם",
+            "eng": "the waters",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "strongs": {
+                "data": "H6213",
+                "metadata": "Strong's Hebrew 6213: 1) to do, fashion, accomplish, make <BR> 1a) (Qal) <BR> 1a1) to do, work, make, produce <BR> 1a1a) to do <BR> 1a1b) to work <BR> 1a1c) to deal (with) <BR> 1a1d) to act, act with effect, effect <BR> 1a2) to make <BR> 1a2a) to make <BR> 1a2b) to produce <BR> 1a2c) to prepare <BR> 1a2d) to make (an offering) <BR> 1a2e) to attend to, put in order <BR> 1a2f) to observe, celebrate <BR> 1a2g) to acquire (property) <BR> 1a2h) to appoint, ordain, institute <BR> 1a2i) to bring about <BR> 1a2j) to use <BR> 1a2k) to spend, pass <BR> 1b) (Niphal) <BR> 1b1) to be done <BR> 1b2) to be made <BR> 1b3) to be produced <BR> 1b4) to be offered <BR> 1b5) to be observed <BR> 1b6) to be used <BR> 1c) (Pual) to be made <BR> 2) (Piel) to press, squeeze"
+            },
+            "translit": "lə·‘ō·śêh",
+            "native": "לְ֭עֹשֵׂה",
+            "eng": "To Him who made",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H216",
+                "metadata": "Strong's Hebrew 216: 1) light <BR> 1a) light of day <BR> 1b) light of heavenly luminaries (moon, sun, stars) <BR> 1c) day-break, dawn, morning light <BR> 1d) daylight <BR> 1e) lightning <BR> 1f) light of lamp <BR> 1g) light of life <BR> 1h) light of prosperity <BR> 1i) light of instruction <BR> 1j) light of face (fig.) <BR> 1k) Jehovah as Israel's light"
+            },
+            "translit": "’ō·w·rîm",
+            "native": "אוֹרִ֣ים",
+            "eng": "lights",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "common plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H1419",
+                "metadata": "Strong's Hebrew 1419: adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel"
+            },
+            "translit": "gə·ḏō·lîm;",
+            "native": "גְּדֹלִ֑ים",
+            "eng": "great",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "strongs": {
+                "data": "H853",
+                "metadata": "Strong's Hebrew 853: 1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative"
+            },
+            "translit": "’eṯ-",
+            "native": "אֶת־",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "direct object marker"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H8121",
+                "metadata": "Strong's Hebrew 8121: 1) sun <BR> 1a) sun <BR> 1b) sunrise, sun-rising, east, sun-setting, west (of direction) <BR> 1c) sun (as object of illicit worship) <BR> 1d) openly, publicly (in other phrases) <BR> 1e) pinnacles, battlements, shields (as glittering or shining)"
+            },
+            "translit": "haš·še·meš",
+            "native": "הַ֭שֶּׁמֶשׁ",
+            "eng": "The sun",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "common singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H4475",
+                "metadata": "Strong's Hebrew 4475: 1) rule, dominion, realm <BR> 1a) rule, dominion, realm, domain <BR> 1b) rule<BR> 1c) rule, dominion (of God)"
+            },
+            "translit": "lə·mem·še·leṯ",
+            "native": "לְמֶמְשֶׁ֣לֶת",
+            "eng": "to rule",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular construct"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3117",
+                "metadata": "Strong's Hebrew 3117: 1) day, time, year <BR> 1a) day (as opposed to night) <BR> 1b) day (24 hour period) <BR> 1b1) as defined by evening and morning in Genesis 1 <BR> 1b2) as a division of time <BR> 1b2a) a working day, a day's journey <BR> 1c) days, lifetime (pl.) <BR> 1d) time, period (general) <BR> 1e) year <BR> 1f) temporal references <BR> 1f1) today <BR> 1f2) yesterday <BR> 1f3) tomorrow"
+            },
+            "translit": "bay·yō·wm;",
+            "native": "בַּיּ֑וֹם",
+            "eng": "by day",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "strongs": {
+                "data": "H853",
+                "metadata": "Strong's Hebrew 853: 1) sign of the definite direct object, not translated in English but generally preceding and indicating the accusative"
+            },
+            "translit": "’eṯ-",
+            "native": "אֶת־",
+            "eng": "-",
+            "grammar": [
+                {
+                    "pos": "direct object marker"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3394",
+                "metadata": "Strong's Hebrew 3394: 1) moon"
+            },
+            "translit": "hay·yā·rê·aḥ",
+            "native": "הַיָּרֵ֣חַ",
+            "eng": "The moon",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3556",
+                "metadata": "Strong's Hebrew 3556: 1) star <BR> 1a) of Messiah, brothers, youth, numerous progeny, personification, God's omniscience (fig.)"
+            },
+            "translit": "wə·ḵō·w·ḵā·ḇîm",
+            "native": "וְ֭כוֹכָבִים",
+            "eng": "and stars",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H4475",
+                "metadata": "Strong's Hebrew 4475: 1) rule, dominion, realm <BR> 1a) rule, dominion, realm, domain <BR> 1b) rule<BR> 1c) rule, dominion (of God)"
+            },
+            "translit": "lə·mem·šə·lō·wṯ",
+            "native": "לְמֶמְשְׁל֣וֹת",
+            "eng": "to rule",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine plural construct"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3915",
+                "metadata": "Strong's Hebrew 3915: 1) night <BR> 1a) night (as opposed to day) <BR> 1b) of gloom, protective shadow (fig.)"
+            },
+            "translit": "bal·lā·yə·lāh;",
+            "native": "בַּלָּ֑יְלָה",
+            "eng": "by night",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "strongs": {
+                "data": "H5221",
+                "metadata": "Strong's Hebrew 5221: 1) to strike, smite, hit, beat, slay, kill<BR> 1a)(Niphal) to be stricken or smitten <BR> 1b) (Pual) to be stricken or smitten <BR> 1c) (Hiphil) <BR> 1c1) to smite, strike, beat, scourge, clap, applaud, give a thrust <BR> 1c2) to smite, kill, slay (man or beast) <BR> 1c3) to smite, attack, attack and destroy, conquer, subjugate, ravage <BR> 1c4) to smite, chastise, send judgment upon, punish, destroy <BR> 1d) (Hophal) to be smitten <BR> 1d1) to receive a blow <BR> 1d2) to be wounded <BR> 1d3) to be beaten <BR> 1d4) to be (fatally) smitten, be killed, be slain <BR> 1d5) to be attacked and captured <BR> 1d6) to be smitten (with disease) <BR> 1d7) to be blighted (of plants)"
+            },
+            "translit": "lə·mak·kêh",
+            "native": "לְמַכֵּ֣ה",
+            "eng": "To Him who struck",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4714",
+                "metadata": " double straits <BR> adj <BR> 2) the inhabitants or natives of Egypt"
+            },
+            "translit": "miṣ·ra·yim",
+            "native": "מִ֭צְרַיִם",
+            "eng": "Egypt",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H1060",
+                "metadata": "Strong's Hebrew 1060: 1) firstborn, firstling <BR> 1a) of men and women <BR> 1b) of animals <BR> 1c) noun of relation (fig.)"
+            },
+            "translit": "biḇ·ḵō·w·rê·hem;",
+            "native": "בִּבְכוֹרֵיהֶ֑ם",
+            "eng": "in their firstborn",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine plural"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "strongs": {
+                "data": "H3318",
+                "metadata": "Strong's Hebrew 3318: 1) to go out, come out, exit, go forth <BR> 1a) (Qal) <BR> 1a1) to go or come out or forth, depart <BR> 1a2) to go forth (to a place) <BR> 1a3) to go forward, proceed to (to or toward something) <BR> 1a4) to come or go forth (with purpose or for result) <BR> 1a5) to come out of <BR> 1b) (Hiphil) <BR> 1b1) to cause to go or come out, bring out, lead out <BR> 1b2) to bring out of <BR> 1b3) to lead out <BR> 1b4) to deliver <BR> 1c) (Hophal) to be brought out or forth"
+            },
+            "translit": "way·yō·w·ṣê",
+            "native": "וַיּוֹצֵ֣א",
+            "eng": "And brought out",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Consecutive imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3478",
+                "metadata": " God prevails<BR> 1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel <BR> 2) the name of the descendants and the nation of the descendants of Jacob <BR> 2a) the name of the nation until the death of Solomon and the split <BR> 2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah <BR> 2c) the name of the nation after the return from exile"
+            },
+            "translit": "yiś·rā·’êl",
+            "native": "יִ֭שְׂרָאֵל",
+            "eng": "Israel",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H8432",
+                "metadata": "Strong's Hebrew 8432: 1) midst, middle <BR> 1a) midst, middle <BR> 1b) into, through (after verbs of motion) <BR> 1c) among (of a number of persons) <BR> 1d) between (of things arranged by twos) <BR> 1e) from among (as to take or separate etc)"
+            },
+            "translit": "mit·tō·w·ḵām;",
+            "native": "מִתּוֹכָ֑ם",
+            "eng": "from among them",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "m"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine plural"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "strongs": {
+                "data": "H3027",
+                "metadata": "Strong's Hebrew 3027: 1) hand <BR> 1a) hand (of man)<BR> 1b) strength, power (fig.) <BR> 1c) side (of land), part, portion (metaph.) (fig.) <BR> 1d) (various special, technical senses) <BR> 1d1) sign, monument <BR> 1d2) part, fractional part, share <BR> 1d3) time, repetition <BR> 1d4) axle-trees, axle <BR> 1d5) stays, support (for laver) <BR> 1d6) tenons (in tabernacle) <BR> 1d7) a phallus, a hand (meaning unsure) <BR> 1d8) wrists"
+            },
+            "translit": "bə·yāḏ",
+            "native": "בְּיָ֣ד",
+            "eng": "With a hand",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H2389",
+                "metadata": "Strong's Hebrew 2389: 1) strong, stout, mighty <BR> 1a) strong <BR> 1a1) severe, sharp, hot<BR> 1a2) firm, hard <BR> 1b) a strong one (subst)"
+            },
+            "translit": "ḥă·zā·qāh",
+            "native": "חֲ֭זָקָה",
+            "eng": "mighty",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H2220",
+                "metadata": "Strong's Hebrew 2220: 1) arm, forearm, shoulder, strength <BR> 1a) arm <BR> 1b) arm (as symbol of strength) <BR> 1c) forces (political and military) <BR> 1d) shoulder (of animal sacrificed)"
+            },
+            "translit": "ū·ḇiz·rō·w·a‘",
+            "native": "וּבִזְר֣וֹעַ",
+            "eng": "and with an arm",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H5186",
+                "metadata": "Strong's Hebrew 5186: 1) to stretch out, extend, spread out, pitch, turn, pervert, incline, bend, bow <BR> 1a) (Qal) <BR> 1a1) to stretch out, extend, stretch, offer <BR> 1a2) to spread out, pitch (tent) <BR> 1a3) to bend, turn, incline <BR> 1a3a) to turn aside, incline, decline, bend down <BR> 1a3b) to bend, bow <BR> 1a3c) to hold out, extend (fig.) <BR> 1b) (Niphal) to be stretched out <BR> 1c) (Hiphil) <BR> 1c1) to stretch out <BR> 1c2) to spread out <BR> 1c3) to turn, incline, influence, bend down, hold out, extend, thrust aside, thrust away"
+            },
+            "translit": "nə·ṭū·yāh;",
+            "native": "נְטוּיָ֑ה",
+            "eng": "outstretched",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "QalPassParticiple",
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "strongs": {
+                "data": "H1504",
+                "metadata": "Strong's Hebrew 1504: 1) to cut, divide, cut down, cut off, cut in two, snatch, decree <BR> 1a) (Qal) <BR> 1a1) to cut in two, divide <BR> 1a2) to cut down <BR> 1a3) to cut off, destroy, exterminate <BR> 1a4) to decree <BR> 1b) (Niphal) <BR> 1b1) to be cut off, separated, excluded <BR> 1b2) to be destroyed, cut off <BR> 1b3) to be decreed"
+            },
+            "translit": "lə·ḡō·zêr",
+            "native": "לְגֹזֵ֣ר",
+            "eng": "To Him who divided",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3220",
+                "metadata": "Strong's Hebrew 3220: 1) sea <BR> 1a) Mediterranean Sea <BR> 1b) Red Sea <BR> 1c) Dead Sea <BR> 1d) Sea of Galilee <BR> 1e) sea (general) <BR> 1f) mighty river (Nile) <BR> 1g) the sea (the great basin in the temple court) <BR> 1h) seaward, west, westward"
+            },
+            "translit": "yam-",
+            "native": "יַם־",
+            "eng": "the Sea",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5488",
+                "metadata": "Strong's Hebrew 5488: 1) reed, rush, water plant <BR> 1a) rushes <BR> 1b) sea of rushes <BR> 1b1) of Red Sea <BR> 1b2) of arms of Red Sea <BR> 1b3) of Gulf of Suez <BR> 1b4) of sea from straits to Gulf of Akaba"
+            },
+            "translit": "sūp̄",
+            "native": "ס֭וּף",
+            "eng": "Red",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H1506",
+                "metadata": "Strong's Hebrew 1506: 1) part"
+            },
+            "translit": "liḡ·zā·rîm;",
+            "native": "לִגְזָרִ֑ים",
+            "eng": "in two",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "strongs": {
+                "data": "H5674",
+                "metadata": "Strong's Hebrew 5674: 1) to pass over or by or through, alienate, bring, carry, do away, take, take away, transgress <BR> 1a) (Qal) <BR> 1a1) to pass over, cross, cross over, pass over, march over, overflow, go over <BR> 1a2) to pass beyond <BR> 1a3) to pass through, traverse <BR> 1a3a) passers-through (participle) <BR> 1a3b) to pass through (the parts of victim in covenant) <BR> 1a4) to pass along, pass by, overtake and pass, sweep by <BR> 1a4a) passer-by (participle) <BR> 1a4b) to be past, be over <BR> 1a5) to pass on, go on, pass on before, go in advance of, pass along, travel, advance <BR> 1a6) to pass away <BR> 1a6a) to emigrate, leave (one's territory) <BR> 1a6b) to vanish <BR> 1a6c) to perish, cease to exist <BR> 1a6d) to become invalid, become obsolete (of law, decree) <BR> 1a6e) to be alienated, pass into other hands <BR> 1b) (Niphal) to be crossed <BR> 1c) (Piel) to impregnate, cause to cross <BR> 1d) (Hiphil) <BR> 1d1) to cause to pass over, cause to bring over, cause to cross over, make over to, dedicate, devote <BR> 1d2) to cause to pass through <BR> 1d3) to cause to pass by or beyond or under, let pass by <BR> 1d4) to cause to pass away, cause to take away <BR> 1e) (Hithpael) to pass over"
+            },
+            "translit": "wə·he·‘ĕ·ḇîr",
+            "native": "וְהֶעֱבִ֣יר",
+            "eng": "And made pass",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Conjunctive perfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3478",
+                "metadata": " God prevails<BR> 1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel <BR> 2) the name of the descendants and the nation of the descendants of Jacob <BR> 2a) the name of the nation until the death of Solomon and the split <BR> 2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah <BR> 2c) the name of the nation after the return from exile"
+            },
+            "translit": "yiś·rā·’êl",
+            "native": "יִשְׂרָאֵ֣ל",
+            "eng": "Israel",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H8432",
+                "metadata": "Strong's Hebrew 8432: 1) midst, middle <BR> 1a) midst, middle <BR> 1b) into, through (after verbs of motion) <BR> 1c) among (of a number of persons) <BR> 1d) between (of things arranged by twos) <BR> 1e) from among (as to take or separate etc)"
+            },
+            "translit": "bə·ṯō·w·ḵōw;",
+            "native": "בְּתוֹכ֑וֹ",
+            "eng": "through the midst of it",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "strongs": {
+                "data": "H5287",
+                "metadata": "Strong's Hebrew 5287: 1) to shake, shake out or off <BR> 1a) (Qal) to shake out, show emptiness <BR> 1b) (Niphal) <BR> 1b1) to be shaken <BR> 1b2) to shake oneself <BR> 1c) (Piel) to shake off or out <BR> 1d) (Hithpael) to shake oneself"
+            },
+            "translit": "wə·ni·‘êr",
+            "native": "וְנִ֘עֵ֤ר",
+            "eng": "But overthrew",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Piel",
+                        "Conjunctive perfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H6547",
+                "metadata": " great house<BR> 1) the common title of the king of Egypt"
+            },
+            "translit": "par·‘ōh",
+            "native": "פַּרְעֹ֣ה",
+            "eng": "Pharaoh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H2428",
+                "metadata": "Strong's Hebrew 2428: 1) strength, might, efficiency, wealth, army <BR> 1a) strength <BR> 1b) ability, efficiency <BR> 1c) wealth <BR> 1d) force, army"
+            },
+            "translit": "wə·ḥê·lōw",
+            "native": "וְחֵיל֣וֹ",
+            "eng": "and his army",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3220",
+                "metadata": "Strong's Hebrew 3220: 1) sea <BR> 1a) Mediterranean Sea <BR> 1b) Red Sea <BR> 1c) Dead Sea <BR> 1d) Sea of Galilee <BR> 1e) sea (general) <BR> 1f) mighty river (Nile) <BR> 1g) the sea (the great basin in the temple court) <BR> 1h) seaward, west, westward"
+            },
+            "translit": "ḇə·yam-",
+            "native": "בְיַם־",
+            "eng": "in the Sea",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5488",
+                "metadata": "Strong's Hebrew 5488: 1) reed, rush, water plant <BR> 1a) rushes <BR> 1b) sea of rushes <BR> 1b1) of Red Sea <BR> 1b2) of arms of Red Sea <BR> 1b3) of Gulf of Suez <BR> 1b4) of sea from straits to Gulf of Akaba"
+            },
+            "translit": "sūp̄;",
+            "native": "ס֑וּף",
+            "eng": "Red",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "8": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "16": {
+        "1": {
+            "strongs": {
+                "data": "H1980",
+                "metadata": "Strong's Hebrew 1980: 1) to go, walk, come <BR> 1a) (Qal) <BR> 1a1) to go, walk, come, depart, proceed, move, go away <BR> 1a2) to die, live, manner of life (fig.) <BR> 1b) (Piel) <BR> 1b1) to walk <BR> 1b2) to walk (fig.) <BR> 1c) (Hithpael) <BR> 1c1) to traverse <BR> 1c2) to walk about <BR> 1d) (Niphal) to lead, bring, lead away, carry, cause to walk"
+            },
+            "translit": "lə·mō·w·lîḵ",
+            "native": "לְמוֹלִ֣יךְ",
+            "eng": "To Him who led",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H5971",
+                "metadata": "Strong's Hebrew 5971: 1) nation, people <BR> 1a) people, nation <BR> 1b) persons, members of one's people, compatriots, country-men <BR> 2) kinsman, kindred"
+            },
+            "translit": "‘am·mōw",
+            "native": "עַ֭מּוֹ",
+            "eng": "His people",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H4057",
+                "metadata": "Strong's Hebrew 4057: 1) wilderness <BR> 1a) pasture <BR> 1b) uninhabited land, wilderness<BR> 1c) large tracts of wilderness (around cities) <BR> 1d) wilderness (fig.) <BR> 2) mouth <BR> 2a) mouth (as organ of speech)"
+            },
+            "translit": "bam·miḏ·bār;",
+            "native": "בַּמִּדְבָּ֑ר",
+            "eng": "through the wilderness",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "17": {
+        "1": {
+            "strongs": {
+                "data": "H5221",
+                "metadata": "Strong's Hebrew 5221: 1) to strike, smite, hit, beat, slay, kill<BR> 1a)(Niphal) to be stricken or smitten <BR> 1b) (Pual) to be stricken or smitten <BR> 1c) (Hiphil) <BR> 1c1) to smite, strike, beat, scourge, clap, applaud, give a thrust <BR> 1c2) to smite, kill, slay (man or beast) <BR> 1c3) to smite, attack, attack and destroy, conquer, subjugate, ravage <BR> 1c4) to smite, chastise, send judgment upon, punish, destroy <BR> 1d) (Hophal) to be smitten <BR> 1d1) to receive a blow <BR> 1d2) to be wounded <BR> 1d3) to be beaten <BR> 1d4) to be (fatally) smitten, be killed, be slain <BR> 1d5) to be attacked and captured <BR> 1d6) to be smitten (with disease) <BR> 1d7) to be blighted (of plants)"
+            },
+            "translit": "lə·mak·kêh",
+            "native": "לְ֭מַכֵּה",
+            "eng": "To Him who struck down",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4428",
+                "metadata": "Strong's Hebrew 4428: 1) king"
+            },
+            "translit": "mə·lā·ḵîm",
+            "native": "מְלָכִ֣ים",
+            "eng": "kings",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H1419",
+                "metadata": "Strong's Hebrew 1419: adj <BR> 1) great <BR> 1a) large (in magnitude and extent) <BR> 1b) in number <BR> 1c) in intensity <BR> 1d) loud (in sound) <BR> 1e) older (in age) <BR> 1f) in importance <BR> 1f1) important things <BR> 1f2) great, distinguished (of men) <BR> 1f3) God Himself (of God) <BR> subst <BR> 1g) great things <BR> 1h) haughty things <BR> 1i) greatness <BR> n pr m <BR> 1j) (CLBL) Haggedolim, the great man?, father of Zabdiel"
+            },
+            "translit": "gə·ḏō·lîm;",
+            "native": "גְּדֹלִ֑ים",
+            "eng": "great",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "18": {
+        "1": {
+            "strongs": {
+                "data": "H2026",
+                "metadata": "Strong's Hebrew 2026: 1) to kill, slay, murder, destroy, murderer, slayer, out of hand <BR> 1a) (Qal) <BR> 1a1) to kill, slay <BR> 1a2) to destroy, ruin <BR> 1b) (Niphal) to be killed <BR> 1c) (Pual) to be killed, be slain"
+            },
+            "translit": "way·ya·hă·rōḡ",
+            "native": "וַֽ֭יַּהֲרֹג",
+            "eng": "And slew",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Consecutive imperfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4428",
+                "metadata": "Strong's Hebrew 4428: 1) king"
+            },
+            "translit": "mə·lā·ḵîm",
+            "native": "מְלָכִ֣ים",
+            "eng": "kings",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H117",
+                "metadata": "Strong's Hebrew 117: 1) great, majestic <BR> 1a) of waters of sea<BR> 1b) of a tree <BR> 1c) of kings, nations, gods <BR> 2) great one, majestic one <BR> 2a) of nobles, chieftains, servants"
+            },
+            "translit": "’ad·dî·rîm;",
+            "native": "אַדִּירִ֑ים",
+            "eng": "mighty",
+            "grammar": [
+                {
+                    "pos": "adjective",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "19": {
+        "1": {
+            "strongs": {
+                "data": "H5511",
+                "metadata": " warrior<BR> 1) king of the Amorites at the time of the conquest and defeated by Moses in Transjordan"
+            },
+            "translit": "lə·sî·ḥō·wn",
+            "native": "לְ֭סִיחוֹן",
+            "eng": "Sihon",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4428",
+                "metadata": "Strong's Hebrew 4428: 1) king"
+            },
+            "translit": "me·leḵ",
+            "native": "מֶ֣לֶךְ",
+            "eng": "king",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H567",
+                "metadata": " a sayer<BR> 1) one of the peoples of east Canaan and beyond the Jordan, dispossessed by the Israelite incursion from Egypt"
+            },
+            "translit": "hā·’ĕ·mō·rî;",
+            "native": "הָאֱמֹרִ֑י",
+            "eng": "of the Amorites",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "20": {
+        "1": {
+            "strongs": {
+                "data": "H5747",
+                "metadata": " long-necked<BR> 1) the Amorite king of Bashan and one of the last representatives of the giants of Rephaim"
+            },
+            "translit": "ū·lə·‘ō·wḡ",
+            "native": "וּ֭לְעוֹג",
+            "eng": "And Og",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H4428",
+                "metadata": "Strong's Hebrew 4428: 1) king"
+            },
+            "translit": "me·leḵ",
+            "native": "מֶ֣לֶךְ",
+            "eng": "king",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H1316",
+                "metadata": " fruitful<BR> 1) a district east of the Jordan known for its fertility which was given to the half-tribe of Manasseh"
+            },
+            "translit": "hab·bā·šān;",
+            "native": "הַבָּשָׁ֑ן",
+            "eng": "of Bashan",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "21": {
+        "1": {
+            "strongs": {
+                "data": "H5414",
+                "metadata": "Strong's Hebrew 5414: 1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon"
+            },
+            "translit": "wə·nā·ṯan",
+            "native": "וְנָתַ֣ן",
+            "eng": "And gave",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Conjunctive perfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H776",
+                "metadata": "Strong's Hebrew 776: 1) land, earth<BR> 1a) earth <BR> 1a1) whole earth (as opposed to a part) <BR> 1a2) earth (as opposed to heaven) <BR> 1a3) earth (inhabitants) <BR> 1b) land <BR> 1b1) country, territory <BR> 1b2) district, region <BR> 1b3) tribal territory <BR> 1b4) piece of ground <BR> 1b5) land of Canaan, Israel <BR> 1b6) inhabitants of land <BR> 1b7) Sheol, land without return, (under) world <BR> 1b8) city (-state) <BR> 1c) ground, surface of the earth <BR> 1c1) ground <BR> 1c2) soil <BR> 1d) (in phrases) <BR> 1d1) people of the land <BR> 1d2) space or distance of country (in measurements of distance) <BR> 1d3) level or plain country <BR> 1d4) land of the living <BR> 1d5) end(s) of the earth <BR> 1e) (almost wholly late in usage) <BR> 1e1) lands, countries <BR> 1e1a) often in contrast to Canaan"
+            },
+            "translit": "’ar·ṣām",
+            "native": "אַרְצָ֣ם",
+            "eng": "their land",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine plural"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5159",
+                "metadata": "Strong's Hebrew 5159: 1) possession, property, inheritance, heritage <BR> 1a) property <BR> 1b) portion, share<BR> 1c) inheritance, portion"
+            },
+            "translit": "lə·na·ḥă·lāh;",
+            "native": "לְנַחֲלָ֑ה",
+            "eng": "as a heritage",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "22": {
+        "1": {
+            "strongs": {
+                "data": "H5159",
+                "metadata": "Strong's Hebrew 5159: 1) possession, property, inheritance, heritage <BR> 1a) property <BR> 1b) portion, share<BR> 1c) inheritance, portion"
+            },
+            "translit": "na·ḥă·lāh",
+            "native": "נַ֭חֲלָה",
+            "eng": "A heritage",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "feminine singular"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3478",
+                "metadata": " God prevails<BR> 1) the second name for Jacob given to him by God after his wrestling with the angel at Peniel <BR> 2) the name of the descendants and the nation of the descendants of Jacob <BR> 2a) the name of the nation until the death of Solomon and the split <BR> 2b) the name used and given to the northern kingdom consisting of the 10 tribes under Jeroboam; the southern kingdom was known as Judah <BR> 2c) the name of the nation after the return from exile"
+            },
+            "translit": "lə·yiś·rā·’êl",
+            "native": "לְיִשְׂרָאֵ֣ל",
+            "eng": "to Israel",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "proper",
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H5650",
+                "metadata": "Strong's Hebrew 5650: 1) slave, servant <BR> 1a) slave, servant, man-servant <BR> 1b) subjects <BR> 1c) servants, worshippers (of God) <BR> 1d) servant (in special sense as prophets, Levites etc) <BR> 1e) servant (of Israel) <BR> 1f) servant (as form of address between equals)"
+            },
+            "translit": "‘aḇ·dōw;",
+            "native": "עַבְדּ֑וֹ",
+            "eng": "His servant",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "23": {
+        "1": {
+            "strongs": {
+                "data": "H8216",
+                "metadata": "Strong's Hebrew 8216: 1) lowliness, low estate or condition"
+            },
+            "translit": "bə·šip̄·lê·nū",
+            "native": "שֶׁ֭בְּשִׁפְלֵנוּ",
+            "eng": "Who in our lowly state",
+            "grammar": [
+                {
+                    "pos": "pr"
+                },
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "b"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "first person common plural"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H2142",
+                "metadata": "Strong's Hebrew 2142: 1) to remember, recall, call to mind <BR> 1a) (Qal) to remember, recall <BR> 1b) (Niphal) to be brought to remembrance, be remembered, be thought of, be brought to mind <BR> 1c) (Hiphil) <BR> 1c1) to cause to remember, remind <BR> 1c2) to cause to be remembered, keep in remembrance <BR> 1c3) to mention <BR> 1c4) to record <BR> 1c5) to make a memorial, make remembrance"
+            },
+            "translit": "zā·ḵar",
+            "native": "זָ֣כַר",
+            "eng": "remembered",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Perfect",
+                        "third person masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": "H",
+            "translit": "lā·nū;",
+            "native": "לָ֑נוּ",
+            "eng": "us",
+            "grammar": [
+                {
+                    "pos": "preposition"
+                },
+                {
+                    "pos": "first person common plural"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "24": {
+        "1": {
+            "strongs": {
+                "data": "H6561",
+                "metadata": "Strong's Hebrew 6561: 1) to tear apart or away, tear off, break away <BR> 1a) (Qal) to tear away, snatch, rescue <BR> 1b) (Piel) to tear off <BR> 1c) (Hithpael) to tear off from oneself, be broken off, be broken in pieces"
+            },
+            "translit": "way·yip̄·rə·qê·nū",
+            "native": "וַיִּפְרְקֵ֥נוּ",
+            "eng": "And rescued us",
+            "grammar": [
+                {
+                    "pos": "conjunctive waw",
+                    "attributes": [
+                        "o"
+                    ]
+                },
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Consecutive imperfect",
+                        "third person masculine singular"
+                    ]
+                },
+                {
+                    "pos": "first person common plural"
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H6862",
+                "metadata": "Strong's Hebrew 6862: 1) narrow, tight <BR> 2) straits, distress <BR> 3) adversary, foe, enemy, oppressor <BR> 4) hard pebble, flint"
+            },
+            "translit": "miṣ·ṣā·rê·nū;",
+            "native": "מִצָּרֵ֑ינוּ",
+            "eng": "from our enemies",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "m"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural construct"
+                    ]
+                },
+                {
+                    "pos": "first person common plural"
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "25": {
+        "1": {
+            "strongs": {
+                "data": "H5414",
+                "metadata": "Strong's Hebrew 5414: 1) to give, put, set <BR> 1a) (Qal) <BR> 1a1) to give, bestow, grant, permit, ascribe, employ, devote, consecrate, dedicate, pay wages, sell, exchange, lend, commit, entrust, give over, deliver up, yield produce, occasion, produce, requite to, report, mention, utter, stretch out, extend <BR> 1a2) to put, set, put on, put upon, set, appoint, assign, designate <BR> 1a3) to make, constitute <BR> 1b) (Niphal) <BR> 1b1) to be given, be bestowed, be provided, be entrusted to, be granted to, be permitted, be issued, be published, be uttered, be assigned <BR> 1b2) to be set, be put, be made, be inflicted <BR> 1c) (Hophal) <BR> 1c1) to be given, be bestowed, be given up, be delivered up <BR> 1c2) to be put upon"
+            },
+            "translit": "nō·ṯên",
+            "native": "נֹתֵ֣ן",
+            "eng": "Who gives",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Qal",
+                        "Participle",
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H3899",
+                "metadata": "Strong's Hebrew 3899: 1) bread, food, grain <BR> 1a) bread <BR> 1a1) bread <BR> 1a2) bread-corn <BR> 1b) food (in general)"
+            },
+            "translit": "le·ḥem",
+            "native": "לֶ֭חֶם",
+            "eng": "food",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H3605",
+                "metadata": "Strong's Hebrew 3605: 1) all, the whole <BR> 1a) all, the whole of <BR> 1b) any, each, every, anything <BR> 1c) totality, everything"
+            },
+            "translit": "lə·ḵāl",
+            "native": "לְכָל־",
+            "eng": "to all",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H1320",
+                "metadata": "Strong's Hebrew 1320: 1) flesh <BR> 1a) of the body <BR> 1a1) of humans <BR> 1a2) of animals <BR> 1b) the body itself <BR> 1c) male organ of generation (euphemism) <BR> 1d) kindred, blood-relations <BR> 1e) flesh as frail or erring (man against God) <BR> 1f) all living things <BR> 1g) animals <BR> 1h) mankind"
+            },
+            "translit": "bā·śār;",
+            "native": "בָּשָׂ֑ר",
+            "eng": "flesh",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "7": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    },
+    "26": {
+        "1": {
+            "strongs": {
+                "data": "H3034",
+                "metadata": "Strong's Hebrew 3034: 1) to throw, shoot, cast <BR> 1a) (Qal) to shoot (arrows) <BR> 1b) (Piel) to cast, cast down, throw down <BR> 1c) (Hiphil) <BR> 1c1) to give thanks, laud, praise <BR> 1c2) to confess, confess (the name of God) <BR> 1d) (Hithpael) <BR> 1d1) to confess (sin) <BR> 1d2) to give thanks"
+            },
+            "translit": "hō·w·ḏū",
+            "native": "ה֭וֹדוּ",
+            "eng": "Oh give thanks",
+            "grammar": [
+                {
+                    "pos": "verb",
+                    "attributes": [
+                        "Hifil",
+                        "Imperative",
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "2": {
+            "strongs": {
+                "data": "H410",
+                "metadata": "Strong's Hebrew 410: 1) god, god-like one, mighty one <BR> 1a) mighty men, men of rank, mighty heroes <BR> 1b) angels <BR> 1c) god, false god, (demons, imaginations) <BR> 1d) God, the one true God, Jehovah <BR> 2) mighty things in nature <BR> 3) strength, power"
+            },
+            "translit": "lə·’êl",
+            "native": "לְאֵ֣ל",
+            "eng": "to the God",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                }
+            ]
+        },
+        "3": {
+            "strongs": {
+                "data": "H8064",
+                "metadata": "Strong's Hebrew 8064: 1) heaven, heavens, sky <BR> 1a) visible heavens, sky <BR> 1a1) as abode of the stars <BR> 1a2) as the visible universe, the sky, atmosphere, etc <BR> 1b) Heaven (as the abode of God)"
+            },
+            "translit": "haš·šā·mā·yim;",
+            "native": "הַשָּׁמָ֑יִם",
+            "eng": "of heaven",
+            "grammar": [
+                {
+                    "pos": "article"
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine plural"
+                    ]
+                }
+            ]
+        },
+        "4": {
+            "strongs": {
+                "data": "H3588",
+                "metadata": "Strong's Hebrew 3588: 1) that, for, because, when, as though, as, because that, but, then, certainly, except, surely, since <BR> 1a) that <BR> 1a1) yea, indeed <BR> 1b) when (of time) <BR> 1b1) when, if, though (with a concessive force) <BR> 1c) because, since (causal connection) <BR> 1d) but (after negative) <BR> 1e) that if, for if, indeed if, for though, but if <BR> 1f) but rather, but <BR> 1g) except that <BR> 1h) only, nevertheless <BR> 1i) surely <BR> 1j) that is <BR> 1k) but if <BR> 1l) for though <BR> 1m) forasmuch as, for therefore"
+            },
+            "translit": "kî",
+            "native": "כִּ֖י",
+            "eng": "for",
+            "grammar": [
+                {
+                    "pos": "conjunction"
+                }
+            ]
+        },
+        "5": {
+            "strongs": {
+                "data": "H5769",
+                "metadata": "Strong's Hebrew 5769: 1) long duration, antiquity, futurity, for ever, ever, everlasting, evermore, perpetual, old, ancient, world <BR> 1a) ancient time, long time (of past) <BR> 1b) (of future) <BR> 1b1) for ever, always <BR> 1b2) continuous existence, perpetual <BR> 1b3) everlasting, indefinite or unending future, eternity"
+            },
+            "translit": "lə·‘ō·w·lām",
+            "native": "לְעוֹלָ֣ם",
+            "eng": "ever",
+            "grammar": [
+                {
+                    "pos": "preposition",
+                    "attributes": [
+                        "l"
+                    ]
+                },
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular"
+                    ]
+                }
+            ]
+        },
+        "6": {
+            "strongs": {
+                "data": "H2617",
+                "metadata": "Strong's Hebrew 2617: 1) goodness, kindness, faithfulness <BR> 2) a reproach, shame"
+            },
+            "translit": "ḥas·dōw.",
+            "native": "חַסְדּֽוֹ׃",
+            "punct": ".",
+            "eng": "His mercy [endures]",
+            "grammar": [
+                {
+                    "pos": "noun",
+                    "attributes": [
+                        "masculine singular construct"
+                    ]
+                },
+                {
+                    "pos": "third person masculine singular"
+                }
+            ]
+        }
+    }
+}
