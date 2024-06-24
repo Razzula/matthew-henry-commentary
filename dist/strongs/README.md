@@ -1,2 +1,3 @@
-Hebrew Text: Westminster Leningrad Codex
-Greek Text: Nestle 1904 + {TR} ⧼RP⧽ (WH) 〈NE〉 [NA] ‹SBL›
+# strongs
+
+For use with [razzula/bible-app](https://github.com/Razzula/bible-app), copy `strongs.json` this directory into `.../bible-app/concordances/`.
